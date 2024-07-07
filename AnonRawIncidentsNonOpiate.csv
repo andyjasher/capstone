@@ -1,0 +1,748 @@
+﻿IncidentDate,IncidentCity,IncidentState,IncidentZip,MannerOfDeath,CauseOfDeathA,DueTo1,DueTo2,DueTo3
+1/3/2019,Grandview,Missouri,64030,Accident,Drowning,NULL,NULL,NULL
+1/6/2019,Oak Grove,Missouri,64075,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+1/13/2019,Blue Springs,Missouri,64014,Accident,cocaine and phencyclidine intoxication,NULL,NULL,NULL
+1/14/2019,Independence,Missouri,64052,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+1/2/2019,Independence,Missouri,64050,Accident,Multisystem organ failure,Acetaminophen intoxication,NULL,NULL
+1/21/2019,Kansas City,Missouri,64131,Accident,Cocaine intoxication,NULL,NULL,NULL
+1/22/2019,Grandview,Missouri,64030,Accident,Cocaine intoxication,NULL,NULL,NULL
+1/24/2019,Lees Summit,Missouri,64064,Accident,benzodiazepine intoxication,NULL,NULL,NULL
+1/27/2019,Kansas City,Missouri,64132,Accident,Acute carbon monoxide intoxication,NULL,NULL,NULL
+1/27/2019,Blue Springs,Missouri,64015,Suicide,Acute methamphetamine intoxication,NULL,NULL,NULL
+2/2/2019,Kansas City,Missouri,64130,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+2/3/2019,Kansas City,Missouri,64124,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+2/7/2019,Independence,Missouri,64055,Accident,methamphetamine intoxication,NULL,NULL,NULL
+2/8/2019,Kansas City,Missouri,64124,Accident,acute ethanol intoxication ,NULL,NULL,NULL
+2/15/2019,Kansas City,Missouri,64111,Suicide,Bupivacaine overdose,NULL,NULL,NULL
+2/24/2019,Kansas City,Missouri,64129,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+2/24/2019,Kansas City,Missouri,64132,Accident,multiple drug intoxication,NULL,NULL,NULL
+3/1/2019,Sibley,Missouri,64088,Accident,methamphetamine intoxication,NULL,NULL,NULL
+3/7/2019,Kansas City,Missouri,64131,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+3/8/2019,Kansas City,Missouri,64108,Accident,Cocaine intoxication,NULL,NULL,NULL
+3/6/2019,Kansas City,Missouri,64120,Accident,Complications of methamphetamine intoxication,NULL,NULL,NULL
+3/10/2019,Kansas City,Missouri,64133,Accident,Acetaminophen hepatotoxicity,NULL,NULL,NULL
+3/14/2019,Kansas City,Missouri,64128,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+3/18/2019,Kansas City,Missouri,64138,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+3/24/2019,Kansas City,Missouri,64128,Accident,Phencyclidine intoxication,NULL,NULL,NULL
+3/28/2019,Independence,Missouri,64055,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+3/28/2019,Kansas City,Missouri,64138,Accident,Positional asphyxia,NULL,NULL,NULL
+3/29/2019,Independence,Missouri,64050,Suicide,Multiple drug and ethanol intoxication,NULL,NULL,NULL
+4/2/2019,Kansas City,Missouri,64138,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+4/4/2019,Kansas City,Missouri,64127,Suicide,amitriptyline intoxication,NULL,NULL,NULL
+4/20/2019,Kansas City,Missouri,64109,Accident,Methamphetamine and cocaine intoxication,NULL,NULL,NULL
+4/22/2019,Kansas City,Missouri,64130,Accident,Acute myocardial infarct  ,Hypertensive atherosclerotic cardiovascular disease and acute cocaine intoxication,NULL,NULL
+5/4/2019,Kansas City,Missouri,64110,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+5/8/2019,Kansas City,Missouri,64130,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+5/12/2019,Kansas City,Missouri,64127,Could not be determined,Multiple blunt force trauma,NULL,NULL,NULL
+5/13/2019,Kansas City,Missouri,64114,Accident,Multiple drug intoxication ,NULL,NULL,NULL
+5/27/2019,Independence,Missouri,64055,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+5/22/2019,Grandview,Missouri,64030,Accident,Complications of acute cocaine and methamphetamine intoxication,NULL,NULL,NULL
+6/6/2019,Blue Springs,Missouri,64015,Accident,Drowning,NULL,NULL,NULL
+6/8/2019,Kansas City,Missouri,64123,Accident,Blunt force trauma to head,NULL,NULL,NULL
+6/20/2019,Kansas City,Missouri,64131,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+6/24/2019,Kansas City,Missouri,64111,Suicide,Multidrug intoxication,NULL,NULL,NULL
+6/28/2019,Kansas City,Missouri,64133,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+6/28/2019,Kansas City,Missouri,64111,Accident,"1,1-Difluoroethane toxicity",NULL,NULL,NULL
+6/27/2019,Grandview,Missouri,64030,Accident,Head trauma,NULL,NULL,NULL
+7/2/2019,Kansas City,Missouri,64124,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/3/2019,Kansas City,Missouri,64123,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/6/2019,Raytown,Missouri,64133,Accident,Multiple drug intoxication,NULL,NULL,NULL
+7/27/2019,Grain Valley,Missouri,64029,Accident,Multiple drug intoxication,NULL,NULL,NULL
+8/16/2019,Kansas City,Missouri,64130,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+8/19/2019,Kansas City,Missouri,64127,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+8/24/2019,Kansas City,Missouri,64127,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+8/26/2019,Independence,Missouri,64052,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+9/1/2019,Oak Grove,Missouri,64075,Accident,Drug (methamphetamine) overdose,NULL,NULL,NULL
+9/4/2019,Kansas City,Missouri,64128,Accident,Acute phencyclidine intoxication,NULL,NULL,NULL
+9/9/2019,Independence,Missouri,64055,Accident,Complications of methamphetamine intoxication,NULL,NULL,NULL
+9/17/2019,Independence,Missouri,64057,Accident,Combined drug (methamphetamine and benzodiazepine) overdose,NULL,NULL,NULL
+9/17/2019,Kansas City,Missouri,64126,Accident,Drug (Methamphetamine) overdose,NULL,NULL,NULL
+9/21/2019,Kansas City,Missouri,64129,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+9/21/2019,Independence,Missouri,64052,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+9/23/2019,Blue Springs,MIssouri,,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+9/24/2019,Grandview,Missouri,64030,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+9/25/2019,Kansas City,Missouri,64124,Accident,Drug (methamphetamine) overdose,NULL,NULL,NULL
+9/25/2019,Independence,Missouri,64055,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+9/29/2019,Independence,Missouri,64055,Accident,Difluoroethane toxicity,NULL,NULL,NULL
+9/30/2019,Independence,Missouri,64055,Accident,Multiple drug intoxication,NULL,NULL,NULL
+10/2/2019,Grain Valley,Missouri,64029,Accident,Acute alcohol intoxication,NULL,NULL,NULL
+10/4/2019,Kansas City,Missouri,64130,Accident,Cocaine and phencyclidine intoxication,NULL,NULL,NULL
+10/4/2019,Raytown,Missouri,64133,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+10/3/2019,Kansas City,Missouri,64111,Accident,Complications of ethylene glycol intoxication,NULL,NULL,NULL
+10/7/2019,Kansas City,Missouri,64133,Accident,Complications of acute ethanol intoxication,NULL,NULL,NULL
+10/11/2019,Lees Summit,Missouri,64081,Accident,Acute ethanol intoxication ,NULL,NULL,NULL
+10/12/2019,Kansas City,Missouri,64109,Accident,Drug (Methamphetamine) overdose,NULL,NULL,NULL
+10/14/2019,Kansas City,Missouri,64127,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+10/15/2019,Independence,Missouri,64055,Accident,Acute cocaine and ethanol intoxication,NULL,NULL,NULL
+10/26/2019,Kansas City,Missouri,64113,Suicide,Combined ethanol and multiple drug intoxication,NULL,NULL,NULL
+10/27/2019,Independence,Missouri,64057,Accident,Multiple drug intoxication,NULL,NULL,NULL
+11/1/2019,Kansas City,Missouri,64130,Accident,Cocaine intoxication,NULL,NULL,NULL
+11/1/2019,Kansas City,Missouri,64128,Accident,Cocaine intoxication,NULL,NULL,NULL
+11/3/2019,Kansas City,Missouri,64131,Suicide,Acute diphenhydramine intoxication,NULL,NULL,NULL
+11/6/2019,Independence,Missouri,64052,Accident,Cardiac tamponade,Ruptured aortic dissection,NULL,NULL
+11/7/2019,Kansas City,Missouri,64134,Accident,Synthetic cannabinoids intoxication,NULL,NULL,NULL
+11/1/2019,Lee's Summit,Missouri,NULL,Accident,Complications of multiple drug intoxication,NULL,NULL,NULL
+11/9/2019,Kansas City,Missouri,64127,Accident,Phencyclidine intoxication,NULL,NULL,NULL
+11/10/2019,Lees Summit,Missouri,64063,Suicide,Sodium nitrite toxicity,NULL,NULL,NULL
+11/11/2019,Kansas City,Missouri,64128,Accident,Phencyclidine intoxication ,NULL,NULL,NULL
+11/12/2019,Kansas City,Missouri,64133,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+11/13/2019,Kansas City,Missouri,64134,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+11/16/2019,Blue Springs,Missouri,64015,Accident,Multidrug intoxication,NULL,NULL,NULL
+11/24/2019,Kansas City,Missouri,64137,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+12/2/2019,Kansas City,Missouri,64133,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+12/4/2019,Independence,Missouri,64050,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+12/5/2019,Kansas City,Missouri,64109,Accident,Cocaine intoxication ,NULL,NULL,NULL
+12/6/2019,Raytown,Missouri,64138,Suicide,Multidrug intoxication,NULL,NULL,NULL
+12/10/2019,Kansas City,Missouri,64110,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+12/12/2019,Independence,Missouri,64055,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+12/14/2019,Kansas City,Missouri,64132,Could not be determined,Multiple drug toxicity,NULL,NULL,NULL
+12/19/2019,Kansas City,Missouri,64114,Suicide,Multidrug intoxication,NULL,NULL,NULL
+12/19/2019,Kansas City,Missouri,64123,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+12/23/2019,Kansas City,Missouri,64130,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+12/24/2019,Kansas City,Missouri,64133,Accident,Drowning,NULL,NULL,NULL
+12/27/2019,Blue Springs,Missouri,64015,Suicide,Acute carbon monoxide intoxication,NULL,NULL,NULL
+12/29/2019,Kansas City,Missouri,64111,Suicide,Multiple drug intoxication,NULL,NULL,NULL
+1/1/2020,Independence,Missouri,64050,Accident,Multiple drug intoxication,NULL,NULL,NULL
+12/28/2019,Kansas City,Missouri,64127,Accident / Traffic,Complications of multiple blunt force injuries,NULL,NULL,NULL
+1/6/2020,Blue Springs,Missouri,64015,Accident,Multiple drug intoxication,NULL,NULL,NULL
+1/7/2020,Kansas City,Missouri,64106,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+1/9/2020,Kansas City,Missouri,64106,Suicide,Acute nicotine and ethanol intoxication,NULL,NULL,NULL
+1/19/2020,Kansas City,Missouri,64130,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+1/26/2020,Lees Summit,Missouri,64086,Accident / Traffic,Complications of multiple blunt force injuries,NULL,NULL,NULL
+1/31/2020,Lees Summit,Missouri,64086,Suicide,Multidrug intoxication,NULL,NULL,NULL
+2/1/2020,Kansas City,Missouri,64108,Accident,Multidrug intoxication,NULL,NULL,NULL
+2/1/2020,Independence,Missouri,64055,Suicide,Multidrug intoxication,NULL,NULL,NULL
+2/1/2020,Kansas City,Missouri,64114,Accident,Cocaine intoxication,NULL,NULL,NULL
+2/13/2020,Kansas City,Missouri,64128,Accident,Inhalation of products of combustion and thermal burns,NULL,NULL,NULL
+2/15/2020,Kansas City,Missouri,64134,Accident,Acute phencyclidine intoxication,NULL,NULL,NULL
+2/15/2020,Kansas City,Missouri,64108,Accident,Acute toluene intoxication,NULL,NULL,NULL
+2/16/2020,Lees Summit,Missouri,64064,Accident,Acute ethanol and multiple drug intoxication,NULL,NULL,NULL
+2/17/2020,Kansas City,Missouri,64133,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+2/21/2020,Kansas City,Missouri,64105,Accident,Mechanical asphyxiation,NULL,NULL,NULL
+2/24/2020,Kansas City,Missouri,64108,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+2/25/2020,Lees Summit,Missouri,64063,Suicide,"Doxepin, sertraline, and lorazepam combined toxicity",NULL,NULL,NULL
+2/26/2020,Independence,Missouri,64053,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+2/27/2020,Lees Summit,Missouri,64064,Could not be determined,Acute quetiapine intoxication,NULL,NULL,NULL
+3/1/2020,Grain Valley,Missouri,64029,Accident,Ethanol and alprazolam intoxication ,NULL,NULL,NULL
+3/4/2020,Kansas City,Missouri,64133,Accident,Cocaine intoxication,NULL,NULL,NULL
+3/5/2020,Independence,Missouri,64052,Accident,Complications of methamphetamine intoxication ,NULL,NULL,NULL
+3/7/2020,Kansas City,Missouri,64124,Could not be determined,Smoke inhalation,NULL,NULL,NULL
+3/8/2020,Independence,Missouri,64058,Accident / Traffic,Multiple blunt force injuries,NULL,NULL,NULL
+3/17/2020,Kansas City,Missouri,64108,Accident,Cocaine intoxication,NULL,NULL,NULL
+3/21/2020,Kansas City,Missouri,64124,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+3/24/2020,Kansas City,Missouri,64130,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+3/24/2020,Kansas City,Missouri,64127,Accident,Cocaine and phencyclidine intoxication,NULL,NULL,NULL
+3/26/2020,Kansas City,Missouri,64137,Accident,Cocaine intoxication,NULL,NULL,NULL
+4/4/2020,Lees Summit,Missouri,64063,Accident,Combined ethanol and alprazolam intoxication,NULL,NULL,NULL
+4/8/2020,Grandview,Missouri,64030,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+4/14/2020,Independence,Missouri,64050,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+4/19/2020,Independence,Missouri,64050,Accident,Soot and smoke inhalation,NULL,NULL,NULL
+4/25/2020,Raytown,Missouri,64133,Accident,Myocardial infarction ,NULL,NULL,NULL
+4/27/2020,Grandview,Missouri,64030,Accident,Acute thrombosis of the left anterior descending coronary artery,NULL,NULL,NULL
+4/26/2020,Independence,Missouri,64052,Accident,Complications of salicylate toxicity,NULL,NULL,NULL
+5/4/2020,Independence,Missouri,64050,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+5/5/2020,Kansas City,Missouri,64120,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+5/5/2020,Kansas City,Missouri,64127,Accident,Chronic ethanol abuse,NULL,NULL,NULL
+5/7/2020,Kansas City,Missouri,64131,Accident,Acute phencyclidine intoxication,NULL,NULL,NULL
+5/8/2020,Independence,Missouri,64055,Accident,Intraparenchymal brain hemorrhage,Basilar aneurysm and acute methamphetamine intoxication,NULL,NULL
+5/12/2020,Raytown,Missouri,64133,Accident / Traffic,Multiple blunt force injuries,NULL,NULL,NULL
+5/14/2020,Kansas City,Missouri,64128,Accident,Multidrug intoxication,NULL,NULL,NULL
+5/17/2020,Lees Summit,Missouri,64081,Accident,Carbon monoxide poisoning,NULL,NULL,NULL
+5/24/2020,Kansas City,Missouri,64134,Accident,Cocaine intoxication ,NULL,NULL,NULL
+5/25/2020,Kansas City,Missouri,64120,Suicide,Carbon monoxide intoxication,NULL,NULL,NULL
+5/25/2020,Kansas City,Missouri,64133,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+5/26/2020,Raytown,Missouri,64138,Suicide,Acute pentobarbital intoxication,NULL,NULL,NULL
+5/26/2020,Kansas City,Missouri,64137,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+5/31/2020,Independence,Missouri,64057,Accident,Complications of intracranial hemorrhage,Blunt force head trauma,Fall,NULL
+6/8/2020,Independence,Missouri,64055,Suicide,Bronchopneumonia,Decreased respiratory drive,Multiple drug intoxication,NULL
+6/10/2020,Kansas City,Missouri,64112,Accident,Asphyxia ,Choking,NULL,NULL
+6/12/2020,Independence,Missouri,64052,Accident,Multidrug intoxication,NULL,NULL,NULL
+6/12/2020,Kansas City,Missouri,64129,Accident,Complications of acute methamphetamine intoxication,NULL,NULL,NULL
+6/16/2020,Grandview,Missouri,64030,Accident,Smoke inhalation and thermal injuries,NULL,NULL,NULL
+6/16/2020,Kansas City,Missouri,64110,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+6/18/2020,Kansas City,Missouri,64137,Accident,Drowning,NULL,NULL,NULL
+6/19/2020,Kansas City,Missouri,64127,Accident,Cocaine intoxication ,NULL,NULL,NULL
+6/22/2020,Kansas City,Missouri,64132,Accident / Traffic,Blunt force trauma of the head and neck,NULL,NULL,NULL
+6/23/2020,Kansas City,Missouri,64127,Accident,Acute phencyclidine intoxication,NULL,NULL,NULL
+6/22/2020,Kansas City,Missouri,64139,Accident,Ischemic cerebrovascular accident,NULL,NULL,NULL
+6/25/2020,Kansas City,Missouri,64130,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+6/25/2020,Independence,Missouri,64052,Accident,Acute cerebrovascular accident,Acute methamphetamine intoxication ,NULL,NULL
+6/6/2020,Kansas City,Missouri,64108,Accident,Cocaine intoxication,NULL,NULL,NULL
+7/9/2020,Kansas City,Missouri,64127,Accident,Phencyclidine intoxication,NULL,NULL,NULL
+7/11/2020,Kansas City,Missouri,64128,Suicide,"Acetaminophen, citalopram, and ethanol intoxication",NULL,NULL,NULL
+7/11/2020,Kansas City,Missouri,64133,Accident,Hyperthermia,Acute methamphetamine intoxication,NULL,NULL
+7/13/2020,Kansas City,Missouri,64109,Accident,Acute ethanol intoxication ,NULL,NULL,NULL
+7/18/2020,Kansas City,Missouri,64108,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/19/2020,Kansas City,Missouri,64111,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+7/17/2020,Independence,Missouri,64057,Accident,Chronic obstructive pulmonary disease,NULL,NULL,NULL
+7/21/2020,Kansas City,Missouri,64124,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/23/2020,Kansas City,Missouri,64111,Accident,Acute cocaine and ethanol intoxication,NULL,NULL,NULL
+7/24/2020,Grandview,Missouri,64030,Accident,Multidrug intoxication,NULL,NULL,NULL
+7/24/2020,Kansas City,Missouri,64129,Accident,Acute phencyclidine intoxication,NULL,NULL,NULL
+7/24/2020,Independence,Missouri,64053,Accident / Traffic,Multiple blunt force trauma,Acute ethanol intoxication,NULL,NULL
+7/28/2020,Lees Summit,Missouri,64081,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+7/29/2020,Independence,Missouri,64050,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+7/30/2020,Lees Summit,Missouri,64086,Accident / Traffic,Multiple blunt traumatic injuries,NULL,NULL,NULL
+8/7/2020,Kansas City,Missouri,64106,Suicide,"1, 1-Difluoroethane intoxication",NULL,NULL,NULL
+8/15/2020,Lees Summit,Missouri,64086,Accident,Acute carbon monoxide intoxication,NULL,NULL,NULL
+8/17/2020,Independence,Missouri,64052,Accident,Disseminated intravascular coagulopathy ,Thermal injuries ,NULL,NULL
+8/17/2020,Independence,Missouri,64053,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+8/19/2020,Independence,Missouri,64057,Accident / Traffic,Blunt force injury of the head,NULL,NULL,NULL
+8/22/2020,Kansas City,Missouri,64102,Accident / Traffic,Multiple blunt force injuries,NULL,NULL,NULL
+8/23/2020,Lees Summit,Missouri,64081,Accident,Positional asphyxia ,,NULL,NULL
+8/27/2020,Kansas City,Missouri,64124,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+8/29/2020,Independence,Missouri,64052,Accident,Multidrug intoxication,NULL,NULL,NULL
+8/29/2020,Kansas City,Missouri,64127,Accident,Multidrug intoxication,NULL,NULL,NULL
+9/1/2020,Kansas City,Missouri,64110,Accident,Acute cocaine intoxication,,NULL,NULL
+9/4/2020,Independence,Missouri,64052,Accident,Multidrug intoxication,NULL,NULL,NULL
+9/5/2020,Kansas City,Missouri,64126,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+9/4/2020,Kansas City,Missouri,64145,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+9/5/2020,Kansas City,Missouri,64111,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+9/7/2020,Kansas City,Missouri,64112,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+9/9/2020,Raytown,Missouri,64133,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+9/10/2020,Kansas City,Missouri,64129,Accident,Cocaine intoxication,NULL,NULL,NULL
+9/10/2020,Independence,Missouri,64052,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+9/19/2020,Kansas City,Missouri,64105,Suicide,Methemoglobinemia,Intentional sodium nitrite overdose,NULL,NULL
+9/21/2020,Kansas City,Missouri,64133,Suicide,"Metoprolol, propranolol, and verapamil overdose",NULL,NULL,NULL
+9/24/2020,Kansas City,Missouri,64120,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+9/27/2020,Independence,Missouri,64052,Accident,Methamphetamine and fluoxetine combined toxicity,NULL,NULL,NULL
+9/28/2020,Greenwood,Missouri,64034,Accident,Drowning ,NULL,NULL,NULL
+10/3/2020,Kansas City,Missouri,64130,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+10/5/2020,Grain Valley,Missouri,64029,Accident,Ethylene glycol toxicity,NULL,NULL,NULL
+10/6/2020,Independence,Missouri,64058,Accident,Cocaine intoxication ,NULL,NULL,NULL
+10/7/2020,Independence,Missouri,64054,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+10/6/2020,Independence,Missouri,64055,Suicide,Multiorgan failure,Multiple drug intoxication,NULL,NULL
+10/13/2020,Blue Springs,Missouri,64015,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+10/14/2020,Kansas City,Missouri,64130,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+10/14/2020,Kansas City,Missouri,64126,Suicide,Penetrating gunshot wound of the torso,NULL,NULL,NULL
+10/16/2020,Kansas City,Missouri,64123,Accident,Acute carbon monoxide intoxication,NULL,NULL,NULL
+10/16/2020,Kansas City,Missouri,64123,Accident,Acute carbon monoxide intoxication and thermal burns,NULL,NULL,NULL
+10/19/2020,Kansas City,Missouri,64120,Accident,Acute myocardial infarction,Right coronary artery thrombosis,NULL,NULL
+10/21/2020,Greenwood,Missouri,64034,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+10/22/2020,Kansas City,Missouri,64124,Accident,Cocaine intoxication,NULL,NULL,NULL
+10/26/2020,Grandview,Missouri,64030,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+10/26/2020,Kansas City,Missouri,64133,Accident,Alcoholic ketoacidosis,NULL,NULL,NULL
+11/1/2020,Independence,Missouri,64050,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+11/3/2020,Lees Summit,Missouri,64086,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+11/3/2020,Independence,Missouri,64055,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+11/6/2020,Independence,Missouri,64052,Accident,Positional asphyxia,Multidrug intoxication,NULL,NULL
+11/6/2020,Kansas City,Missouri,64133,Suicide,Gunshot wound of the head,NULL,NULL,NULL
+11/9/2020,Blue Springs,Missouri,64015,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+11/18/2020,Kansas City,Missouri,64123,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+11/19/2020,Kansas City,Missouri,64128,Accident,Phencyclidine and ethanol intoxication,NULL,NULL,NULL
+11/23/2020,Blue Springs,Missouri,64014,Accident,Carbon monoxide poisoning,NULL,NULL,NULL
+11/23/2020,Blue Springs,Missouri,64014,Accident,Carbon monoxide poisoning,NULL,NULL,NULL
+11/24/2020,Lees Summit,Missouri,64086,Accident,Acute benztropine intoxication,NULL,NULL,NULL
+11/25/2020,Kansas City,Missouri,64126,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+11/28/2020,Independence,Missouri,64050,Accident,Multidrug intoxication,NULL,NULL,NULL
+11/29/2020,Independence,Missouri,64055,Accident,Mitragynine intoxication,NULL,NULL,NULL
+11/30/2020,Kansas City,Missouri,64111,Accident,Phencyclidine intoxication ,NULL,NULL,NULL
+12/1/2020,Lees Summit,Missouri,64086,Suicide,Nortriptyline overdose,NULL,NULL,NULL
+12/4/2020,Grain Valley,Missouri,64029,Accident,Multidrug intoxication,NULL,NULL,NULL
+12/4/2020,Lees Summit,Missouri,64064,Suicide,Shotgun wound of the torso,NULL,NULL,NULL
+12/4/2020,Blue Springs,Missouri,64014,Suicide,Multiple blunt force trauma,NULL,NULL,NULL
+12/7/2020,Kansas City,Missouri,64129,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+12/14/2020,Kansas City,Missouri,64106,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+12/19/2020,Kansas City,Missouri,64133,Accident,Acute ethanol intoxication ,NULL,NULL,NULL
+12/22/2020,Kansas City,Missouri,64110,Suicide,Bupropion overdose,NULL,NULL,NULL
+12/24/2020,Kansas City,Missouri,64127,Accident,Amphetamine intoxication,NULL,NULL,NULL
+12/24/2020,Kansas City,Missouri,64108,Accident,Phencyclidine and cocaine intoxication,NULL,NULL,NULL
+12/24/2020,Kansas City,Missouri,64138,Suicide,Probable methemoglobinemia,Intentional sodium nitrite overdose,NULL,NULL
+12/25/2020,Lees Summit,Missouri,64064,Accident / Traffic,Multiple blunt force injuries and diffuse thermal injuries ,NULL,NULL,NULL
+12/26/2020,Kansas City,Missouri,64127,Accident,Phencyclidine intoxication,NULL,NULL,NULL
+12/27/2020,Kansas City,Missouri,64134,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+12/28/2020,Kansas City,Missouri,64127,Accident,Complications of maternal methamphetamine intoxication,NULL,NULL,NULL
+12/31/2020,Independence,Missouri,64056,Accident,Acute methamphetamine intoxication ,NULL,NULL,NULL
+1/1/2021,Kansas City,Missouri,64108,Accident,Hypothermia,NULL,NULL,NULL
+1/2/2021,Kansas City,Missouri,64106,Suicide,Multi-organ failure,Intentional acetaminophen overdose,NULL,NULL
+1/6/2021,Kansas City,Missouri,64131,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+12/26/2020,Kansas City,Missouri,64123,Accident,Complications of diffuse thermal injury of the body,NULL,NULL,NULL
+1/10/2021,Kansas City,Missouri,64110,Accident,Acute phencyclidine and cocaine intoxication,NULL,NULL,NULL
+1/12/2021,Kansas City,Missouri,64112,Accident,Multiple drug toxicity,NULL,NULL,NULL
+1/13/2021,Kansas City,Missouri,64110,Suicide,Carbon monoxide poisoning and methamphetamine intoxication,NULL,NULL,NULL
+1/15/2021,Kansas City,Missouri,64110,Accident,Acute ethanol and alprazolam intoxication,NULL,NULL,NULL
+1/18/2021,Kansas City,Missouri,64133,Accident,Carbon monoxide poisoning ,Fire,NULL,NULL
+1/18/2021,Kansas City,Missouri,64130,Accident,Complications of cocaine intoxication ,NULL,NULL,NULL
+1/21/2021,Kansas City,Missouri,64106,Accident,Acute amitriptyline intoxication,NULL,NULL,NULL
+1/23/2021,Lees Summit,Missouri,64081,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+1/23/2021,Kansas City,Missouri,64114,Accident,"Acute 3,4-methylenedioxyamphetamine intoxication",NULL,NULL,NULL
+1/24/2021,Kansas City,Missouri,64132,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+1/24/2021,Kansas City,Missouri,64128,Accident,Carbon monoxide poisoning,NULL,NULL,NULL
+1/24/2021,Blue Springs,Missouri,64015,Suicide,Cyclobenzaprine and fluoxetine overdose,NULL,NULL,NULL
+1/25/2021,Grain Valley,Missouri,64029,Accident,Multidrug intoxication,NULL,NULL,NULL
+1/29/2021,Kansas City,Missouri,64109,Accident,Cocaine intoxication,NULL,NULL,NULL
+1/31/2021,Kansas City,Missouri,64120,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+1/31/2021,Kansas City,Missouri,64134,Suicide,Perforating gunshot wound of the head,NULL,NULL,NULL
+2/3/2021,Kansas City,Missouri,64130,Accident,Phencyclidine intoxication ,NULL,NULL,NULL
+2/9/2021,Blue Springs,Missouri,64015,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+2/9/2021,Kansas City,Missouri,64138,Accident,Multidrug intoxication,NULL,NULL,NULL
+2/9/2021,Kansas City,Missouri,64110,Accident,Multidrug intoxication,NULL,NULL,NULL
+2/15/2021,Kansas City,Missouri,64131,Accident,Environmental hypothermia,NULL,NULL,NULL
+2/15/2021,Kansas City,Missouri,64128,Accident,Phencyclidine intoxication,NULL,NULL,NULL
+2/14/2021,Independence,Missouri,64055,Accident,Multiorgan failure,Hyperthermia,Acute methamphetamine intoxication,NULL
+2/14/2021,Lees Summit,Missouri,64086,Accident,Intracerebral hemorrhage,Methamphetamine intoxication ,NULL,NULL
+2/19/2021,Independence,Missouri,64057,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+2/20/2021,Kansas City,Missouri,64133,Accident,Acute phencyclidine intoxication,NULL,NULL,NULL
+2/17/2021,Kansas City,Missouri,64130,Accident,Cocaine intoxication,NULL,NULL,NULL
+2/22/2021,Lees Summit,Missouri,64086,Accident,Ethanol and alprazolam intoxication,NULL,NULL,NULL
+2/25/2021,Blue Springs,Missouri,64014,Accident,"Fluoxetine, nortriptyline, and clonazepam combined intoxication",NULL,NULL,NULL
+2/27/2021,Kansas City,Missouri,64133,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+2/27/2021,Kansas City,Missouri,64114,Could not be determined,Septic shock ,Acetaminophen toxicity ,NULL,NULL
+3/6/2021,Lees Summit,Missouri,64081,Accident,Fracture dislocation of C1 vertebra,Fall down flight of stairs,NULL,NULL
+3/10/2021,Kansas City,Missouri,64138,Accident,Multidrug intoxication,NULL,NULL,NULL
+2/18/2021,Independence,Missouri,64052,Suicide,Complications of ethylene glycol poisoning,NULL,NULL,NULL
+3/13/2021,Kansas City,Missouri,64130,Accident,Cocaine intoxication,NULL,NULL,NULL
+3/14/2021,Kansas City,Missouri,64112,Accident,"Gamma-hydroxybutyrate, ethanol and alprazolam combined toxicity ",NULL,NULL,NULL
+3/16/2021,Kansas City,Missouri,64137,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+3/16/2021,Kansas City,Missouri,64128,Accident,Cocaine intoxication,NULL,NULL,NULL
+3/16/2021,Kansas City,Missouri,64134,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+3/17/2021,Blue Springs,Missouri,64015,Accident,Diabetic ketoacidosis,NULL,NULL,NULL
+3/19/2021,Independence,Missouri,64050,Accident,Complications of subarachnoid hemorrhage ,Ruptured berry aneurysm,NULL,NULL
+3/26/2021,Independence,Missouri,64050,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+3/28/2021,Kansas City,Missouri,64110,Could not be determined,Valvular heart disease,NULL,NULL,NULL
+3/28/2021,Grandview,Missouri,64030,Accident,Multiple drug intoxication,NULL,NULL,NULL
+3/27/2021,Kansas City,Missouri,64105,Accident,Multidrug intoxication,NULL,NULL,NULL
+3/31/2021,Kansas City,Missouri,64110,Accident,Carbon monoxide toxicity and smoke inhalation ,NULL,NULL,NULL
+4/1/2021,Kansas City,Missouri,NULL,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+3/29/2021,Independence,Missouri,64050,Accident,Complications of methamphetamine intoxication,NULL,NULL,NULL
+4/3/2021,Independence,Missouri,64055,Accident,Multiple drug intoxication,NULL,NULL,NULL
+4/3/2021,Kansas City,Missouri,64108,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+4/3/2021,Kansas City,Missouri,64131,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+4/8/2021,Kansas City,Missouri,64112,Accident,Multiple drug intoxication,NULL,NULL,NULL
+4/10/2021,Kansas City,Missouri,64129,Accident,Thermal injury and smoke inhalation,NULL,NULL,NULL
+3/30/2021,Kansas City,Missouri,64112,Accident,Acute subdural and subarachnoid hemorrhage,Blunt force head trauma,Fall from standing height ,NULL
+4/13/2021,Kansas City,Missouri,64132,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+4/15/2021,Kansas City,Missouri,64108,Accident / Traffic,Blunt force injury of the head and neck,NULL,NULL,NULL
+4/16/2021,Independence,Missouri,64055,Accident,"1, 1-Difluoroethane and ethanol combined toxicity ",NULL,NULL,NULL
+4/5/2021,Kansas City,Missouri,64130,Accident,Probable cocaine intoxication,NULL,NULL,NULL
+4/14/2021,Kansas City,Missouri,64134,Accident,Probable ethanol and multiple drug intoxication,NULL,NULL,NULL
+4/22/2021,Kansas City,Missouri,64145,Suicide,Fluvoxamine intoxication,NULL,NULL,NULL
+4/23/2021,Independence,Missouri,64052,Suicide,Perforating gunshot wound of the head,NULL,NULL,NULL
+4/24/2021,Kansas City,Missouri,64137,Accident,Multidrug intoxication,NULL,NULL,NULL
+4/24/2021,Kansas City,Missouri,64130,Accident,Cocaine intoxication ,NULL,NULL,NULL
+4/25/2021,Kansas City,Missouri,64124,Accident,Ruptured aortic dissection ,NULL,NULL,NULL
+4/28/2021,Kansas City,Missouri,64129,Accident,Multidrug intoxication,NULL,NULL,NULL
+4/30/2021,Kansas City,Missouri,64109,Accident,Multidrug intoxication,NULL,NULL,NULL
+5/3/2021,Kansas City,Missouri,64126,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+5/1/2021,Independence,Missouri,64055,Suicide,Multidrug intoxication ,NULL,NULL,NULL
+5/5/2021,Independence,Missouri,64055,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+5/7/2021,Kansas City,Missouri,64138,Accident,Multidrug intoxication,NULL,NULL,NULL
+4/29/2021,Grandview,Missouri,64030,Accident / Traffic,Multiple blunt force trauma,Motorcycle crash,NULL,NULL
+5/11/2021,Lees Summit,Missouri,64063,Accident,Electrocution,NULL,NULL,NULL
+5/16/2021,Independence,Missouri,64055,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+5/19/2021,Kansas City,Missouri,64120,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+5/23/2021,Blue Springs,Missouri,64014,Accident / Traffic,Multiple blunt force injuries,NULL,NULL,NULL
+5/23/2021,Kansas City,Missouri,64132,Accident,Acute cocaine intoxication,,NULL,NULL
+5/28/2021,Kansas City,Missouri,64128,Accident,Acute cocaine intoxication ,NULL,NULL,NULL
+5/31/2021,Kansas City,Missouri,64130,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+6/4/2021,Oak Grove,Missouri,64075,Accident,Drowning,NULL,NULL,NULL
+6/5/2021,Kansas City,Missouri,64127,Accident,Multidrug intoxication,NULL,NULL,NULL
+6/5/2021,Kansas City,Missouri,64137,Accident,Alprazolam intoxication,NULL,NULL,NULL
+6/5/2021,Independence,Missouri,64056,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+6/5/2021,Blue Springs,Missouri,64015,Accident / Traffic,Mutiple blunt force trauma,NULL,NULL,NULL
+6/8/2021,Blue Springs,Missouri,64014,Accident / Traffic,Multiple blunt force trauma ,NULL,NULL,NULL
+6/5/2021,Independence,Missouri,64056,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+6/12/2021,Kansas City,Missouri,64128,Accident,Multidrug intoxication,NULL,NULL,NULL
+6/15/2021,Kansas City,Missouri,64123,Accident / Traffic,Multiple blunt force injuries ,NULL,NULL,NULL
+6/16/2021,Independence,Missouri,64050,Accident,Congestive heart failure ,Hypertensive and atherosclerotic cardiovascular disease,NULL,NULL
+6/16/2021,Independence,Missouri,64052,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+6/16/2021,Kansas City,Missouri,64108,Accident / Traffic,Acute myocardial infarction,Atherosclerotic cardiovascular disease,NULL,NULL
+6/18/2021,Kansas City,Missouri,64138,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+6/20/2021,Lees Summit,Missouri,64082,Suicide,Pentobarbital overdose,NULL,NULL,NULL
+6/20/2021,Independence,Missouri,64056,Accident,Probable carbon monoxide poisoning,NULL,NULL,NULL
+6/24/2021,Blue Springs,Missouri,64015,Accident,Multiple drug intoxication,NULL,NULL,NULL
+6/25/2021,Independence,Missouri,64053,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+6/25/2021,Kansas City,Missouri,64127,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+6/29/2021,Kansas City,Missouri,64127,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/1/2021,Oak Grove,Missouri,64075,Accident,Multidrug intoxication,NULL,NULL,NULL
+7/7/2021,Kansas City,Missouri,64129,Accident / Traffic,Multiple blunt force trauma,Multidrug intoxication,NULL,NULL
+6/28/2021,Kansas City,Missouri,64111,Accident,Chronic obstructive pulmonary disease,NULL,NULL,NULL
+7/14/2021,Kansas City,Missouri,64111,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+7/15/2021,Kansas City,Missouri,64124,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/17/2021,Kansas City,Missouri,64124,Accident,Venlafaxine intoxication,NULL,NULL,NULL
+7/19/2021,Independence,Missouri,64057,Suicide,Carbon monoxide intoxication,NULL,NULL,NULL
+7/20/2021,Kansas City,Missouri,64133,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/21/2021,Kansas City,Missouri,64137,Accident / Traffic,Multiple blunt force injuries,NULL,NULL,NULL
+7/21/2021,Kansas City,Missouri,64127,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+7/22/2021,Kansas City,Missouri,64111,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+7/22/2021,Sugar Creek,Missouri,64054,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+7/23/2021,Kansas City,Missouri,64124,Accident,Methamphetamine and cocaine intoxication,NULL,NULL,NULL
+7/29/2021,Kansas City,Missouri,64130,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+7/30/2021,Kansas City,Missouri,64112,Accident,Saddle pulmonary embolism,NULL,NULL,NULL
+8/1/2021,Grandview,Missouri,64030,Accident,Cocaine and ethanol intoxication,NULL,NULL,NULL
+8/2/2021,Kansas City,Missouri,64110,Accident,Multidrug intoxication,NULL,NULL,NULL
+8/2/2021,Kansas City,Missouri,64128,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+8/11/2021,Sugar Creek,Missouri,64054,Accident,Ruptured aortic dissection,NULL,NULL,NULL
+8/11/2021,Kansas City,Missouri,64134,Accident,Exsanguination,Upper areodigestive hemorrhage,Methamphetamine intoxication,NULL
+8/12/2021,Grandview,Missouri,64030,Accident,Multidrug intoxication,NULL,NULL,NULL
+8/17/2021,Independence,Missouri,64057,Suicide,"Citalopram, quetiapine, and alprazolam combined toxicity",NULL,NULL,NULL
+8/18/2021,Lees Summit,Missouri,64086,Accident,Multiorgan failure ,Acute methamphetamine intoxication ,NULL,NULL
+8/18/2021,Kansas City,Missouri,64137,Suicide,Perforating gunshot woundof the head,NULL,NULL,NULL
+8/20/2021,Kansas City,Missouri,64130,Could not be determined,Carbon monoxide poisoning and thermal injuries,NULL,NULL,NULL
+8/23/2021,Kansas City,Missouri,64112,Suicide,Probable sodium nitrite poisoning,NULL,NULL,NULL
+8/23/2021,Kansas City,Missouri,64106,Accident,Acute myocardial infarction,NULL,NULL,NULL
+8/25/2021,Blue Springs,Missouri,64015,Accident,Acute subdural hemorrhage,Fall,Acute ethanol intoxication,NULL
+8/26/2021,Independence,Missouri,64055,Accident, Environmental hyperthermia,NULL,NULL,NULL
+8/28/2021,Kansas City,Missouri,64133,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+8/28/2021,Kansas City,Missouri,64133,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+8/28/2021,Kansas City,Missouri,64120,Accident,Multiple blunt force trauma,NULL,NULL,NULL
+8/29/2021,Kansas City,Missouri,64128,Accident,Probable methamphetamine intoxication,NULL,NULL,NULL
+8/25/2021,Kansas City,Missouri,64114,Suicide,Diphenhydramine and probable potassium combined toxicity,NULL,NULL,NULL
+9/6/2021,Kansas City,Missouri,64111,Accident / Traffic,Multiple blunt force injuries,NULL,NULL,NULL
+9/6/2021,Independence,Missouri,64050,Accident,Acute myocardial infarction,Hypertensive and atherosclerotic cardiovascular disease,NULL,NULL
+9/6/2021,Kansas City,Missouri,64136,Accident,Upper gastrointestinal hemorrhage,Esophageal ulcer,NULL,NULL
+9/6/2021,Grandview,Missouri,64030,Accident,Cocaine intoxication,NULL,NULL,NULL
+9/8/2021,Independence,Missouri,64055,Suicide,"Multiple drug (methamphetamine, trazodone, clonazepam, and cyclobenzaprine) intoxication",NULL,NULL,NULL
+9/9/2021,Kansas City,Missouri,64127,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+9/10/2021,Kansas City,Missouri,64132,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+9/10/2021,Kansas City,Missouri,64138,Suicide,Multidrug intoxication,NULL,NULL,NULL
+9/11/2021,Kansas City,Missouri,64108,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+9/13/2021,Grandview,Missouri,64030,Accident,Acute intracerebral hemorrhage ,Hypertensive cardiovascular disease and methamphetamine intoxication,NULL,NULL
+9/20/2021,Kansas City,Missouri,64111,Suicide,Combined ethanol and quetipine intoxication,NULL,NULL,NULL
+9/24/2021,Kansas City,Missouri,64138,Suicide,Multidrug intoxication,NULL,NULL,NULL
+9/24/2021,Grandview,Missouri,64030,Accident,Multidrug intoxication,NULL,NULL,NULL
+9/24/2021,Kansas City,Missouri,64127,Accident,Cocaine intoxication,NULL,NULL,NULL
+9/27/2021,Kansas City,Missouri,64129,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+10/4/2021,Kansas City,Missouri,64131,Accident,Multidrug intoxication,NULL,NULL,NULL
+10/4/2021,Lees Summit,Missouri,64086,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+10/8/2021,Kansas City,Missouri,64109,Suicide,Clozapine and glipizide overdose,NULL,NULL,NULL
+10/9/2021,Kansas City,Missouri,64130,Accident,Complications of blunt force head trauma,Fall,NULL,NULL
+10/10/2021,Kansas City,Missouri,64127,Accident,Cocaine intoxication,NULL,NULL,NULL
+10/11/2021,Grain Valley,Missouri,64029,Accident,Multidrug intoxication,NULL,NULL,NULL
+10/13/2021,Kansas City,Missouri,64106,Accident,Acute subdural and subarachnoid hemorrhage,NULL,NULL,NULL
+10/16/2021,Independence,Missouri,64050,Accident,Multidrug intoxication,NULL,NULL,NULL
+10/26/2021,Kansas City,Missouri,64130,Accident,Multidrug intoxication,NULL,NULL,NULL
+10/26/2021,Kansas City,Missouri,64133,Accident,Multidrug intoxication,NULL,NULL,NULL
+10/28/2021,Oak Grove,Missouri,64075,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+10/29/2021,Kansas City,Missouri,64129,Accident,Multidrug intoxication,NULL,NULL,NULL
+11/1/2021,Kansas City,Missouri,64133,Accident,Thermal injuries and inhalation of products of combustion ,NULL,NULL,NULL
+11/2/2021,Independence,Missouri,64050,Accident,Intracerebral hemorrhage,NULL,NULL,NULL
+11/4/2021,Kansas City,Missouri,64109,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+11/5/2021,Independence,Missouri,64050,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+11/11/2021,Independence,Missouri,64050,Suicide,Perforating gunshot wound of the head,NULL,NULL,NULL
+11/11/2021,Raytown,Missouri,64133,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+11/12/2021,Kansas City,Missouri,64110,Suicide,Perforating gunshot wound of the head,NULL,NULL,NULL
+11/12/2021,Independence,Missouri,64055,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+11/12/2021,Grandview,Missouri,64137,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+11/23/2021,Independence,Missouri,64055,Accident,Methamphetmaine intoxication,NULL,NULL,NULL
+11/23/2021,Kansas City,Missouri,64129,Accident,Carbon monoxide toxicity,NULL,NULL,NULL
+11/23/2021,Kansas City,Missouri,64129,Accident,Carbon monoxide toxicity,NULL,NULL,NULL
+11/26/2021,Kansas City,Missouri,64130,Accident,Multidrug intoxication,NULL,NULL,NULL
+11/26/2021,Independence,Missouri,64055,Suicide,Perforating gunshot wound of the head,NULL,NULL,NULL
+11/27/2021,Blue Springs,Missouri,64014,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+11/28/2021,Kansas City,Missouri,64114,Accident,Mitragynine intoxication ,NULL,NULL,NULL
+12/1/2021,Independence,Missouri,64055,Accident,Complications of diabetes mellitus,NULL,NULL,NULL
+12/1/2021,Kansas City,Missouri,64129,Accident / Traffic,Diffuse thermal injuries and carbon monoxide poisoning,NULL,NULL,NULL
+12/1/2021,Kansas City,Missouri,64129,Accident / Traffic,Diffuse thermal injuries and carbon monoxide poisoning,NULL,NULL,NULL
+12/2/2021,Kansas City,Missouri,64128,Accident,Cocaine and phencyclidine intoxication,NULL,NULL,NULL
+12/2/2021,Kansas City,Missouri,64130,Accident,Cocaine intoxication,NULL,NULL,NULL
+12/5/2021,Sugar Creek,Missouri,64054,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+12/2/2021,Kansas City,Missouri,64134,Accident,Complications of cocaine intoxication ,NULL,NULL,NULL
+12/8/2021,Kansas City,Missouri,64130,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+12/8/2021,Kansas City,Missouri,64114,Accident,Acute ethanol intoxication ,NULL,NULL,NULL
+11/18/2021,Kansas City,Missouri,64130,Accident,Acute respiratory failure,SARS-CoV-19 associated pneumonia,NULL,NULL
+12/13/2021,Kansas City,Missouri,64124,Accident,Carbon monoxide poisoning ,NULL,NULL,NULL
+12/24/2021,Lees Summit,Missouri,64086,Accident,Multiple blunt force trauma,Fall down flight of stairs,NULL,NULL
+12/26/2021,Kansas City,Missouri,64130,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+12/29/2021,Kansas City,Missouri,64131,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+12/29/2021,Kansas City,Missouri,64133,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+1/1/2022,Kansas City,Missouri,64127,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+1/2/2022,Kansas City,Missouri,64123,Suicide,Multidrug intoxication,NULL,NULL,NULL
+1/2/2022,Grandview,Missouri,64030,Accident,Multidrug intoxication,NULL,NULL,NULL
+1/3/2022,Independence,Missouri,64050,Accident,Complications of dilated cardiomyopathy,NULL,NULL,NULL
+10/16/2021,Kansas City,Missouri,64131,Accident,Head trauma,NULL,NULL,NULL
+1/10/2022,Kansas City,Missouri,64110,Accident,Acute fentayl intoxication,NULL,NULL,NULL
+1/10/2022,Independence,Missouri,64052,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+1/17/2022,Independence,Missouri,64055,Accident,Alprozalam toxicity,NULL,NULL,NULL
+1/20/2022,Kansas City,Missouri,64123,Accident,Acute cocaine and methamphetamine intoxication,NULL,NULL,NULL
+1/21/2022,Blue Springs,Missouri,64014,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+1/21/2022,Kansas City,Missouri,64128,Accident,Multidrug intoxication ,NULL,NULL,NULL
+1/22/2022,Kansas City,Missouri,64128,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL
+1/28/2022,Kansas City,Missouri,64124,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+1/27/2022,Lees Summit,Missouri,64064,Accident,Multiorgan failure,Sepsis,Acute bronchopneumonia,NULL
+1/29/2022,Greenwood,Missouri,64034,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+1/31/2022,Independence,Missouri,64057,Accident,Acute intraparenchymal hemorrhage,NULL,NULL,NULL
+2/10/2022,Independence,Missouri,64057,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+2/10/2022,Greenwood,Missouri,64034,Accident,Fluoxetine toxicity,NULL,NULL,NULL
+2/11/2022,Kansas City,Missouri,64111,Accident,Multidrug intoxication,NULL,NULL,NULL
+2/11/2022,Kansas City,Missouri,64131,Accident,Multiple blunt force trauma,NULL,NULL,NULL
+2/12/2022,Kansas City,Missouri,64128,Accident,Acute phencyclidine intoxication,NULL,NULL,NULL
+2/13/2022,Kansas City,Missouri,64130,Accident,Cocaine intoxication,NULL,NULL,NULL
+2/14/2022,Independence,Missouri,64055,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+2/16/2022,Kansas City,Missouri,64127,Accident,Soot and smoke inhalation,NULL,NULL,NULL
+2/23/2022,Kansas City,Missouri,64128,Accident,Ethanol and cocaine intoxication,NULL,NULL,NULL
+2/24/2022,Raytown,Missouri,64138,Accident,Asphyxia ,Choking,NULL,NULL
+2/24/2022,Kansas City,Missouri,64138,Accident,Sequelae of chronic ethanol abuse,,NULL,NULL
+2/25/2022,Kansas City,Missouri,64147,Accident,Combined methamphetamine and cocaine intoxication ,NULL,NULL,NULL
+2/25/2022,Independence,Missouri,64050,Suicide,Multidrug intoxication ,NULL,NULL,NULL
+3/2/2022,Kansas City,Missouri,64109,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+3/3/2022,Kansas City,Missouri,64133,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+3/4/2022,Independence,Missouri,64055,Accident,"1,1-Difluoroethane intoxication",NULL,NULL,NULL
+3/5/2022,Kansas City,Missouri,64124,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+3/8/2022,Kansas City,Missouri,64129,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+3/7/2022,Kansas City,Missouri,64132,Accident,Congestive heart failure,Hypertensive and atherosclerotic cardiovascular disease,NULL,NULL
+3/11/2022,Independence,Missouri,64055,Suicide,Combined ethanol and alprazolam intoxication,NULL,NULL,NULL
+3/8/2022,Kansas City,Missouri,64108,Accident / Traffic,Complications of C5-C6 vertebral fracture,NULL,NULL,NULL
+3/12/2022,Kansas City,Missouri,64123,Accident,Sertraline and hydroxyzine toxicity ,NULL,NULL,NULL
+3/12/2022,Kansas City,Missouri,64123,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+3/14/2022,Kansas City,Missouri,64114,Accident,Probable drowning,NULL,NULL,NULL
+3/15/2022,Kansas City,Missouri,64131,Accident,Cocaine intoxication,NULL,NULL,NULL
+3/23/2022,Kansas City,Missouri,64124,Accident,Probable hypothermia,NULL,NULL,NULL
+3/24/2022,Grandview,Missouri,64030,Accident,Acute ephedrine intoxication ,NULL,NULL,NULL
+3/25/2022,Kansas City,Missouri,64129,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+3/25/2022,Kansas City,Missouri,64124,Accident,Congestive heart failure,NULL,NULL,NULL
+3/31/2022,Independence,Missouri,64055,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+4/1/2022,Kansas City,Missouri,64127,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+4/4/2022,Blue Springs,Missouri,64015,Homicide,Complications of carbon monoxide poisoning and smoke inhalation,NULL,NULL,NULL
+4/9/2022,Kansas City,Missouri,64129,Accident,Intracranial hemorrhage ,Acute methamphetamine intoxication,NULL,NULL
+4/9/2022,Kansas City,Missouri,64130,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+4/10/2022,Kansas City,Missouri,64111,Accident,Combined methamphetamine and ethanol intoxication,NULL,NULL,NULL
+4/18/2022,Lees Summit,Missouri,64063,Accident,Complications of acute ethanol intoxication,NULL,NULL,NULL
+4/18/2022,Kansas City,Missouri,64127,Accident,Acute myocardial infarction,Thrombosis of the right coronary artery and acute cocaine intoxication,NULL,NULL
+4/22/2022,Kansas City,Missouri,64133,Accident,Hemopericardium,Acute ruptured aortic dissection,NULL,NULL
+4/27/2022,Independence,Missouri,64053,Accident,Asphyxia,Choking on food,NULL,NULL
+5/2/2022,Grain Valley,Missouri,64029,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+5/3/2022,Kansas City,Missouri,64127,Accident,Mechanical and positional asphyxia,NULL,NULL,NULL
+5/4/2022,Kansas City,Missouri,64127,Accident,Cocaine intoxication,NULL,NULL,NULL
+5/4/2022,Kansas City,Missouri,64123,Accident,Cocaine intoxication,NULL,NULL,NULL
+5/4/2022,Kansas City,Missouri,64130,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+5/6/2022,Kansas City,Missouri,64130,Suicide,Perforating gunshot wound of the head,NULL,NULL,NULL
+5/16/2022,Kansas City,Missouri,64110,Accident,Cocaine intoxication,NULL,NULL,NULL
+5/16/2022,Kansas City,Missouri,64133,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+5/14/2022,Kansas City,Missouri,64132,Accident,Complications of methamphetamine intoxication ,NULL,NULL,NULL
+5/21/2022,Kansas City,Missouri,64113,Accident,Probable drug intoxication ,NULL,NULL,NULL
+5/22/2022,Independence,Missouri,64053,Suicide,Multiple drug intoxication,NULL,NULL,NULL
+5/23/2022,Kansas City,Missouri,64127,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+5/23/2022,Kansas City,Missouri,64128,Accident,Acute phencyclidine intoxication,NULL,NULL,NULL
+5/30/2022,Independence,Missouri,64055,Accident,"Gabapentin, trazodone, venlafaxine, and quetiapine combined toxicity",NULL,NULL,NULL
+6/3/2022,Lees Summit,Missouri,64081,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+6/3/2022,Kansas City,Missouri,64138,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+6/1/2022,Independence,Missouri,64050,Accident,Complications of intracranial hemorrhage,Fall,NULL,NULL
+6/5/2022,Independence,Missouri,64050,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+5/25/2022,Kansas City,Missouri,64131,Suicide,Complications of dextromethorphan toxicity,NULL,NULL,NULL
+6/6/2022,Kansas City,Missouri,64126,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+6/6/2022,Kansas City,Missouri,64129,Accident,Multidrug intoxication,NULL,NULL,NULL
+6/5/2022,Kansas City,Missouri,64133,Suicide,Perforating gunshot wound of the head,NULL,NULL,NULL
+6/10/2022,Independence,Missouri,64055,Accident,Multidrug intoxication,NULL,NULL,NULL
+6/15/2022,Blue Springs,Missouri,64014,Accident,Multidrug intoxication,NULL,NULL,NULL
+6/18/2022,Independence,Missouri,64054,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+6/22/2022,Blue Springs,Missouri,64014,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+6/22/2022,Kansas City,Missouri,64124,Accident,Drowning,NULL,NULL,NULL
+6/25/2022,Kansas City,Missouri,64127,Accident,Multidrug intoxication,NULL,NULL,NULL
+6/24/2022,Kansas City,Missouri,64111,Accident,Complications of recent methamphetamine intoxication,NULL,NULL,NULL
+7/6/2022,Kansas City,Missouri,64108,Accident,Combined methamphetamine and cocaine intoxication,NULL,NULL,NULL
+7/7/2022,Independence,Missouri,64056,Suicide,Amitriptyline and duloxetine combined toxicity,NULL,NULL,NULL
+7/11/2022,Lees Summit,Missouri,64086,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+7/15/2022,Independence,Missouri,64058,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/15/2022,Kansas City,Missouri,64129,Suicide,Multidrug intoxication,NULL,NULL,NULL
+7/15/2022,Kansas City,Missouri,64145,Accident / Traffic,Multiple blunt force injuries,NULL,NULL,NULL
+7/17/2022,Kansas City,Missouri,64108,Accident / Traffic,Multiple blunt force injuries,NULL,NULL,NULL
+7/16/2022,Kansas City,Missouri,64120,Accident,Complications of methamphetamine intoxication,NULL,NULL,NULL
+7/18/2022,Kansas City,Missouri,64108,Accident,Hyperthermia,NULL,NULL,NULL
+7/20/2022,Kansas City,Missouri,64106,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+7/17/2022,Kansas City,Missouri,64105,Suicide,Complications of valproic acid overdose,NULL,NULL,NULL
+7/22/2022,Independence,Missouri,64055,Accident,Hypertensive atherosclerotic cardiovascular disease,NULL,NULL,NULL
+7/22/2022,Kansas City,Missouri,64131,Accident,Multiple drug intoxication,NULL,NULL,NULL
+7/25/2022,Independence,Missouri,64055,Accident,Multidrug intoxication,NULL,NULL,NULL
+7/25/2022,Independence,Missouri,64055,Accident,Multidrug intoxication ,NULL,NULL,NULL
+7/27/2022,Kansas City,Missouri,64132,Accident,Cocaine intoxication ,NULL,NULL,NULL
+7/29/2022,Blue Springs,Missouri,64014,Accident,Multidrug intoxication ,NULL,NULL,NULL
+7/30/2022,Oak Grove,Missouri,64075,Accident,Multidrug intoxication ,NULL,NULL,NULL
+8/2/2022,Kansas City,Missouri,64134,Accident,Acute alcohol intoxication,NULL,NULL,NULL
+8/4/2022,Blue Springs,Missouri,64015,Accident,Acute methamphetamine intoxication ,NULL,NULL,NULL
+8/4/2022,Kansas City,Missouri,64125,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/25/2022,Independence,Missouri,64052,Accident / Traffic,Bronchopneumonia ,Multiple blunt force injuries of the chest,Motor vehicle crash,NULL
+8/12/2022,Independence,Missouri,64055,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+8/15/2022,Independence,Missouri,64052,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+8/15/2022,Kansas City,Missouri,64130,Accident,Cocaine intoxication,NULL,NULL,NULL
+8/16/2022,Kansas City,Missouri,64108,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+8/17/2022,Independence,Missouri,64050,Accident,Acute ethanol intoxication ,NULL,NULL,NULL
+8/17/2022,Blue Springs,Missouri,64015,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+8/15/2022,Kansas City,Missouri,64137,Could not be determined,Fluoxetine toxicity,NULL,NULL,NULL
+8/20/2022,Kansas City,Missouri,64106,Suicide,Multidrug intoxication ,NULL,NULL,NULL
+8/22/2022,Kansas City,Missouri,64128,Suicide,Carbon monoxide poisoning,NULL,NULL,NULL
+8/22/2022,Oak Grove,Missouri,64075,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+8/23/2022,Kansas City,Missouri,64109,Accident,Cocaine intoxication,NULL,NULL,NULL
+8/24/2022,Kansas City,Missouri,64128,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+8/22/2022,Lees Summit,Missouri,64082,Suicide,Complications of anoxic brain injury,Acetaminophen intoxication and partial thickness burns ,NULL,NULL
+8/25/2022,Grandview,Missouri,64030,Could not be determined,Carbon monoxide poisoning and smoke inhalation,NULL,NULL,NULL
+8/27/2022,Kansas City,Missouri,64110,Accident,Multidrug intoxication,NULL,NULL,NULL
+8/29/2022,Kansas City,Missouri,64125,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+9/1/2022,Independence,Missouri,64057,Accident,Multidrug intoxication,NULL,NULL,NULL
+9/7/2022,Blue Springs,Missouri,64014,Suicide,Quetiapine overdose,NULL,NULL,NULL
+9/8/2022,Kansas City,Missouri,64130,Accident,Acute ethanol intoxication,NULL,NULL,NULL
+9/15/2022,Kansas City,Missouri,64126,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+9/14/2022,Independence,Missouri,64050,Could not be determined,Multiorgan failure,Septic shock,Aspiration pneumonia,Gabapentin toxicity 
+9/23/2022,Kansas City,Missouri,64110,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+9/25/2022,Kansas City,Missouri,64129,Accident / Traffic,Multiple blunt traumatic injuries,NULL,NULL,NULL
+9/25/2022,Independence,Missouri,64052,Accident,Multidrug intoxication,NULL,NULL,NULL
+9/26/2022,Grandview,Missouri,64030,Accident,Multidrug intoxication,NULL,NULL,NULL
+9/27/2022,Kansas City,Missouri,64106,Accident,Multidrug intoxication,NULL,NULL,NULL
+10/2/2022,Kansas City,Missouri,64138,Accident,Bupropion intoxication,NULL,NULL,NULL
+9/22/2022,Kansas City,Missouri,64127,Accident,Complications of cocaine intoxication,NULL,NULL,NULL
+10/6/2022,Independence,Missouri,64052,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+10/6/2022,Kansas City,Missouri,64133,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+10/12/2022,Kansas City,Missouri,64131,Accident,Multidrug intoxication,NULL,NULL,NULL
+10/14/2022,Independence,Missouri,64050,Suicide,Acute alprazolam intoxication,NULL,NULL,NULL
+10/18/2022,Kansas City,Missouri,64130,Accident,Acute phencyclidine intoxication ,NULL,NULL,NULL
+10/22/2022,Kansas City,Missouri,64128,Accident,Phencyclidine intoxication,NULL,NULL,NULL
+10/22/2022,Kansas City,Missouri,64127,Accident,Ethanol intoxication,NULL,NULL,NULL
+10/20/2022,Kansas City,Missouri,64131,Accident,Acute subdural and subarachnoid hemorrhage,Fall,NULL,NULL
+10/29/2022,Independence,Missouri,64052,Accident,Acute subarachnoid and subdural hemorrhage,Fall down flight of stairs,NULL,NULL
+10/30/2022,Kansas City,Missouri,64127,Accident,Multidrug intoxication,NULL,NULL,NULL
+10/30/2022,Kansas City,Missouri,64106,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+11/1/2022,Blue Springs,Missouri,64015,Accident,Hypertensive and atherosclerotic cardiovascular disease ,NULL,NULL,NULL
+11/1/2022,Kansas City,Missouri,64138,Accident,Drowning,NULL,NULL,NULL
+10/29/2022,Kansas City,Missouri,64138,Accident,Complications of methamphetamine intoxication,NULL,NULL,NULL
+11/6/2022,Kansas City,Missouri,64124,Accident,Cocaine and methamphetamine intoxication,NULL,NULL,NULL
+11/7/2022,Kansas City,Missouri,64130,Accident,Phencyclidine intoxication,NULL,NULL,NULL
+11/3/2022,Kansas City,Missouri,64132,Accident,Acute myocardial infarction,NULL,NULL,NULL
+11/10/2022,Grain Valley,Missouri,64029,Accident,Asphyxiation,Choking,NULL,NULL
+11/20/2022,Independence,Missouri,64050,Accident,Atherosclerotic cardiovascular disease,NULL,NULL,NULL
+11/21/2022,Kansas City,Missouri,64127,Accident,Ruptured dissecting aortic aneurysm ,Hypertensive cardiovascular disease,NULL,NULL
+11/30/2022,Kansas City,Missouri,64114,Accident,Cocaine intoxication,NULL,NULL,NULL
+12/1/2022,Kansas City,Missouri,64126,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+12/1/2022,Independence,Missouri,64052,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+12/4/2022,Kansas City,Missouri,64130,Accident,Multi drug intoxication ,NULL,NULL,NULL
+12/5/2022,Kansas City,Missouri,64132,Accident,Protonitazene intoxication,NULL,NULL,NULL
+12/6/2022,Kansas City,Missouri,64138,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+12/7/2022,Kansas City,Missouri,64124,Accident,Cocaine intoxication,NULL,NULL,NULL
+12/7/2022,Kansas City,Missouri,64126,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+12/8/2022,Kansas City,Missouri,64128,Accident,Thermal burn injuries and smoke inhalation with carbon monoxide poisoning ,NULL,NULL,NULL
+12/8/2022,Kansas City,Missouri,64128,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+12/2/2022,Grandview,Missouri,64030,Suicide,Probable multidrug overdose,NULL,NULL,NULL
+12/14/2022,Kansas City,Missouri,64105,Suicide,"Mirtazapine, quetiapine, and temazepam overdose",NULL,NULL,NULL
+12/19/2022,Blue Springs,Missouri,64015,Accident,"Methocarbamol, naproxen, pregabalin, paroxetine, diphenhydramine, quetiapine, and clonazepam combined toxicity",NULL,NULL,NULL
+12/22/2022,Kansas City,Missouri,64105,Accident,Multidrug intoxication,NULL,NULL,NULL
+12/25/2022,Kansas City,Missouri,64109,Accident,Cocaine intoxication,NULL,NULL,NULL
+12/26/2022,Kansas City,Missouri,64133,Accident,Phencyclidine and methamphetamine intoxication,NULL,NULL,NULL
+12/26/2022,Kansas City,Missouri,64128,Accident,Bilateral pulmonary thromboemboli,NULL,NULL,NULL
+1/1/2023,Independence,Missouri,64058,Accident,Carbon monoxide toxicity,,,NULL
+1/1/2023,Independence,Missouri,64050,Accident,Blunt force neck trauma ,Fall down flight of stairs ,NULL,NULL
+1/2/2023,Kansas City,Missouri,64127,Accident,Cocaine intoxication,NULL,NULL,NULL
+1/5/2023,Kansas City,Missouri,64171,Accident,Complications of methamphetamine intoxication ,NULL,NULL,NULL
+1/7/2023,Independence,Missouri,64053,Accident,Hypertensive and atherosclerotic cardiovascular disease,NULL,NULL,NULL
+1/8/2023,Kansas City,Missouri,64132,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+1/9/2023,Kansas City,Missouri,64114,Accident,Multidrug intoxication,NULL,NULL,NULL
+1/19/2023,Kansas City,Missouri,64146,Accident,Multidrug intoxication,NULL,NULL,NULL
+1/22/2023,Kansas City,Missouri,64120,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+1/22/2023,Kansas City,Missouri,64124,Accident,Probable methamphetamine intoxication,NULL,NULL,NULL
+1/27/2023,Grain Valley,Missouri,64029,Could not be determined,Multidrug intoxication,NULL,NULL,NULL
+1/28/2023,Lone Jack,Missouri,64070,Accident,Multidrug intoxication,NULL,NULL,NULL
+1/28/2023,Kansas City,Missouri,64131,Accident,Multidrug intoxication ,NULL,NULL,NULL
+2/9/2023,Kansas City,Missouri,64126,Accident,Asphyxia,Choking ,NULL,NULL
+2/5/2023,Kansas City,Missouri,64132,Accident,Multi drug intoxication,NULL,NULL,NULL
+2/9/2023,Grandview,Missouri,64030,Accident,Multidrug intoxication,NULL,NULL,NULL
+2/10/2023,Sugar Creek,Missouri,64050,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+2/12/2023,Blue Springs,Missouri,64015,Accident,Congestive heart failure,NULL,NULL,NULL
+2/13/2023,Blue Springs,Missouri,64015,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+2/13/2023,Kansas City,Missouri,64131,Accident,Mutlidrug intoxication ,NULL,NULL,NULL
+2/14/2023,Kansas City,Missouri,64123,Accident,Subarachnoid hemorrhage ,Ruptured saccular aneurysm,NULL,NULL
+2/14/2023,Independence,Missouri,64055,Suicide,Carbon monoxide poisoning,NULL,NULL,NULL
+2/16/2023,Kansas City,Missouri,64120,Accident / Traffic,Multiple blunt force trauma ,NULL,NULL,NULL
+2/18/2023,Kansas City,Missouri,64127,Accident,Complications of cocaine intoxication ,NULL,NULL,NULL
+2/22/2023,Kansas City,Missouri,64111,Accident,Cocaine intoxication,NULL,NULL,NULL
+2/25/2023,Kansas City,Missouri,64123,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+2/25/2023,Kansas City,Missouri,64131,Accident,Acute methamphetamine intoxication ,NULL,NULL,NULL
+2/27/2023,Independence,Missouri,64052,Accident,Carbon monoxide poisoning,NULL,NULL,NULL
+2/25/2023,Kansas City,Missouri,64129,Accident,Complications of anoxic brain injury,Multidrug intoxication,NULL,NULL
+3/1/2023,Independence,Missouri,64050,Suicide,Diphenhydramine overdose,NULL,NULL,NULL
+3/2/2023,Lees Summit,Missouri,64064,Accident,Complications of intracranial hemorrhage,Fall,NULL,NULL
+3/18/2023,Kansas City,Missouri,64108,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+3/18/2023,Independence,Missouri,64056,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+3/14/2023,Kansas City,Missouri,64132,Accident,Cocaine toxicity ,NULL,NULL,NULL
+3/19/2023,Kansas City,Missouri,64108,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+3/19/2023,Kansas City,Missouri,64127,Accident,MDMB-4en-PINACA toxicity ,NULL,NULL,NULL
+3/22/2023,Kansas City,Missouri,64131,Accident,Probable methamphetamine and cocaine intoxication,NULL,NULL,NULL
+3/21/2023,Kansas City,Missouri,64133,Accident,Complications of hemorrhagic stroke,NULL,NULL,NULL
+3/22/2023,Kansas City,Missouri,64133,Accident,Complications of hemorrhagic stroke,NULL,NULL,NULL
+3/23/2023,Kansas City,Missouri,64131,Accident,Cocaine intoxication,NULL,NULL,NULL
+2/24/2023,Kansas City,Missouri,64128,Accident,Environmental hypothermia,NULL,NULL,NULL
+3/25/2023,Lees Summit,Missouri,64082,Accident,Acute myocardial infarction,NULL,NULL,NULL
+3/26/2023,Kansas City,Missouri,64132,Could not be determined,Hypertensive-Type and Atherosclerotic Cardiovascular Disease,NULL,NULL,NULL
+3/31/2023,Kansas City,Missouri,64106,Accident,Acute methamphetamine intoxication ,NULL,NULL,NULL
+3/31/2023,Kansas City,Missouri,64126,Accident,Multidrug intoxication,NULL,NULL,NULL
+4/2/2023,Kansas City,Missouri,64126,Accident,Complications of diabetes mellitus,NULL,NULL,NULL
+4/10/2023,Kansas City,Missouri,64134,Could not be determined,Complications of methamphetamine intoxication,NULL,NULL,NULL
+4/20/2023,Independence,Missouri,64058,Accident,Methylenedioxyamphetamine toxicity,NULL,NULL,NULL
+4/21/2023,Independence,Missouri,64052,Could not be determined,Multidrug intoxication,NULL,NULL,NULL
+4/26/2023,Kansas City,Missouri,64127,Accident,Acute cocaine intoxication,NULL,NULL,NULL
+4/26/2023,Kansas City,Missouri,64133,Accident,Multidrug intoxication ,NULL,NULL,NULL
+5/2/2023,Kansas City,Missouri,64110,Accident,Benztropine toxicity ,NULL,NULL,NULL
+5/8/2023,Kansas City,Missouri,64132,Accident,Hypertensive-Type and Atherosclerotic Cardiovascular Disease,NULL,NULL,NULL
+5/8/2023,Kansas City,Missouri,64129,Accident,Complications of cocaine toxicity,NULL,NULL,NULL
+5/22/2023,Kansas City,Missouri,64123,Accident,Methamphetamine Toxicity,NULL,NULL,NULL
+6/2/2023,Kansas City,Missouri,64105,Suicide,Complications of verapamil overdose,NULL,NULL,NULL
+6/4/2023,Kansas City,Missouri,64127,Accident,Acute alcohol toxicity,NULL,NULL,NULL
+6/5/2023,Kansas City,Missouri,64132,Accident,Acute Methamphetamine Toxicity,NULL,NULL,NULL
+6/6/2023,Kansas City,Missouri,64105,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+6/9/2023,Lees Summit,Missouri,64063,Suicide,Duloxetine overdose,NULL,NULL,NULL
+6/9/2023,Kansas City,Missouri,64106,Accident,Methamphetamine toxicity,NULL,NULL,NULL
+5/31/2023,Kansas City,Missouri,64130,Accident,Pontine Hemorrhage ,Hypertension,NULL,NULL
+6/12/2023,Kansas City,Missouri,64127,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+6/14/2023,Kansas City,Missouri,64137,Accident / Traffic,Multiple blunt traumatic injuries ,NULL,NULL,NULL
+6/15/2023,Kansas City,Missouri,64111,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+6/20/2023,Independence,Missouri,64052,Accident,Multidrug intoxication,NULL,NULL,NULL
+6/20/2023,Kansas City,Missouri,64127,Accident,Cocaine intoxication,NULL,NULL,NULL
+6/22/2023,Lees Summit,Missouri,64086,Accident,Cyclobenzaprine and ethanol intoxication ,NULL,NULL,NULL
+6/24/2023,Independence,Missouri,64052,Suicide,Ethylene glycol toxicity,NULL,NULL,NULL
+6/24/2023,Kansas City,Missouri,64131,Accident / Traffic,Multiple blunt traumatic injuries ,NULL,NULL,NULL
+6/25/2023,Kansas City,Missouri,64111,Suicide,Olanzapine toxicity ,NULL,NULL,NULL
+6/7/2023,Kansas City,Missouri,64124,Accident,Complications of chronic ethanol abuse ,NULL,NULL,NULL
+6/28/2023,Independence,Missouri,64057,Accident,Complications of methamphetamine intoxication ,NULL,NULL,NULL
+7/6/2023,Kansas City,Missouri,64120,Could not be determined,"Acute Methamphetamine, Hydroxyzine, Propranolol, Quetiapine, Gabapentin, and Sertraline Toxicity",NULL,NULL,NULL
+7/6/2023,Independence,Missouri,64050,Accident,Hypertensive-Type Cardiovascular Disease,NULL,NULL,NULL
+7/7/2023,Kansas City,Missouri,64123,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+7/8/2023,Kansas City,Missouri,64124,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+7/9/2023,Lees Summit,Missouri,64082,Could not be determined,Complications of acetaminophen and salicylate toxicity ,NULL,NULL,NULL
+7/12/2023,Independence,Missouri,64055,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+7/13/2023,Kansas City,Missouri,64123,Accident,Acute methamphetamine intoxication,NULL,NULL,NULL
+7/14/2023,Kansas City,Missouri,64109,Accident / Traffic,Diffuse thermal injury and smoke inhalation ,Motor vehicle crash ,NULL,NULL
+7/19/2023,Kansas City,Missouri,64133,Accident,Acute Methamphetamine Toxicity,NULL,NULL,NULL
+7/19/2023,Independence,Missouri,64052,Accident,Acute Methamphetamine Toxicity,NULL,NULL,NULL
+7/22/2023,Kansas City,Missouri,64127,Accident,Congestive heart failure,NULL,NULL,NULL
+7/26/2023,Kansas City,Missouri,64123,Suicide,Ibuprofen toxicity ,NULL,NULL,NULL
+7/26/2023,Lees Summit,Missouri,64081,Accident,Acute pneumonia,NULL,NULL,NULL
+7/28/2023,Kansas City,Missouri,64114,Accident,Atherosclerotic and Hypertensive Cardiovascular Disease,NULL,NULL,NULL
+7/28/2023,Lees Summit,Missouri,64086,Accident,Multidrug intoxication ,NULL,NULL,NULL
+7/29/2023,Kansas City,Missouri,64145,Accident,Multidrug intoxication,NULL,NULL,NULL
+7/30/2023,Kansas City,Missouri,64109,Accident,Hypertensive and Atherosclerotic Cardiovascular Disease,NULL,NULL,NULL
+8/1/2023,Grandview,Missouri,64030,Accident,Acute methamphetamine intoxication ,NULL,NULL,NULL
+8/1/2023,Independence,Missouri,64052,Accident,Multidrug intoxication ,NULL,NULL,NULL
+8/4/2023,Kansas City,Missouri,64134,Accident,Ethanol intoxication,NULL,NULL,NULL
+7/3/2023,Grain Valley,Missouri,64029,Accident,Complications of blunt force head trauma,Fall,NULL,NULL
+8/8/2023,Kansas City,Missouri,64128,Accident,Methamphetamine intoxication ,,NULL,NULL
+8/11/2023,Kansas City,Missouri,64123,Accident,Acute Methamphetamine Toxicity,NULL,NULL,NULL
+8/13/2023,Kansas City,Missouri,64130,Accident,Cocaine and ethanol intoxication,NULL,NULL,NULL
+8/13/2023,Kansas City,Missouri,64125,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+8/17/2023,Kansas City,Missouri,64106,Accident,Methamphetamine intoxication ,NULL,NULL,NULL
+8/20/2023,Kansas City,Missouri,64127,Accident,Cocaine intoxication ,NULL,NULL,NULL
+8/21/2023,Kansas City,Missouri,64127,Accident,Multidrug intoxication,NULL,NULL,NULL
+8/23/2023,Kansas City,Missouri,64108,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+8/30/2023,Independence,Missouri,64055,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+8/30/2023,Independence,Missouri,64052,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+9/6/2023,Kansas City,Missouri,64130,Accident,Atherosclerotic and Hypertensive Cardiovascular Disease,NULL,NULL,NULL
+9/7/2023,Kansas City,Missouri,64132,Accident,Cocaine intoxication,NULL,NULL,NULL
+9/8/2023,Independence,Missouri,64050,Accident,Cocaine toxicity ,NULL,NULL,NULL
+9/8/2023,Kansas City,Missouri,64125,Accident,Combined methamphetamine and cocaine toxicity,NULL,NULL,NULL
+9/10/2023,Kansas City,Missouri,64124,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+9/2/2023,Independence,Missouri,64052,Accident,Complications of anoxic brain injury,Multidrug intoxication ,NULL,NULL
+9/19/2023,Kansas City,Missouri,64134,Accident,Acute cerebral hemorrhage ,Methamphetamine intoxication ,NULL,NULL
+9/19/2023,Lees Summit,Missouri,64063,Accident,Cyclobenzaprine and diphenhydramine intoxication,NULL,NULL,NULL
+9/20/2023,Kansas City,Missouri,64111,Accident,Diabetic ketoacidosis,NULL,NULL,NULL
+9/24/2023,Kansas City,Missouri,64134,Accident,Acute Cocaine and Methamphetamine Toxicity,NULL,NULL,NULL
+9/28/2023,Kansas City,Missouri,64130,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+10/2/2023,Kansas City,Missouri,64127,Accident,Cocaine intoxication,NULL,NULL,NULL
+10/6/2023,Kansas City,Missouri,64127,Accident,Cocaine intoxication,NULL,NULL,NULL
+10/8/2023,Kansas City,Missouri,64105,Accident,Acute Ethanol Toxicity ,NULL,NULL,NULL
+10/20/2023,Kansas City,Missouri,64134,Accident,Multidrug toxicity,NULL,NULL,NULL
+10/21/2023,Kansas City,Missouri,64111,Accident,"Fentnayl, methamphetamine, and phencyclidine intoxication",NULL,NULL,NULL
+10/23/2023,Kansas City,Missouri,64130,Accident,Phencyclidine toxicity,NULL,NULL,NULL
+10/31/2023,Blue Springs,Missouri,64014,Accident,Methamphetamine and Dextro/Levo Methorphan Toxicity,NULL,NULL,NULL
+11/5/2023,Independence,Missouri,64052,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+11/6/2023,Kansas City,Missouri,64126,Accident,Carbon monoxide poisoning,NULL,NULL,NULL
+11/6/2023,Kansas City,Missouri,64126,Accident,Carbon monoxide poisoning,NULL,NULL,NULL
+11/6/2023,Kansas City,Missouri,64126,Accident,Carbon monoxide poisoning,NULL,NULL,NULL
+11/7/2023,Kansas City,Missouri,64138,Accident,Methamphetamine and ketamine intoxication ,NULL,NULL,NULL
+11/8/2023,Independence,Missouri,64050,Accident,Methamphetamine intoxication,NULL,NULL,NULL
+11/11/2023,Kansas City,Missouri,64109,Accident,Multidrug intoxication,NULL,NULL,NULL
