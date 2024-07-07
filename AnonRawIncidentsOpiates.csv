@@ -1,0 +1,640 @@
+﻿IncidentDate,IncidentCity,IncidentState,IncidentZip,MannerOfDeath,CauseOfDeathA,DueTo1,DueTo2,DueTo3,OtherSigCond
+01/03/2019,Independence,Missouri,64052,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+01/07/2019,Independence,Missouri,64056,Accident,oxycodone intoxication,NULL,NULL,NULL,ischemic heart disease
+01/15/2019,Independence,Missouri,64056,Accident,Acute hydrocodone intoxication,NULL,NULL,NULL,"Congestive heart failure due to hypertensive atherosclerotic cardiovascular disease, Pulmonary hypertension, Diabetes mellitus, Chronic Kidney Disease, Atrial fibrillation, Antiphospholipid antibody syndrome, Prior cerebrovascular event"
+01/17/2019,Kansas City,Missouri,64114,Accident,Heroin and methamphetamine Intoxication,NULL,NULL,NULL,NULL
+01/23/2019,Kansas City,Missouri,64132,Accident,"Cocaine, morphine, and alprazolam combined toxicity",NULL,NULL,NULL,NULL
+01/30/2019,Independence,Missouri,64055,Accident,Hydrocodone and diazepam combined toxicity,NULL,NULL,NULL,Chronic obstructive pulmonary disease
+02/01/2019,Kansas City,Missouri,64108,Accident,Acute fentanyl and heroin intoxication,NULL,NULL,NULL,NULL
+02/03/2019,Independence,Missouri,64055,Accident,Acute fentanyl intoxication ,NULL,NULL,NULL,NULL
+02/15/2019,Lees Summit,Missouri,64063,Accident,Heroin and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/20/2019,Independence,Missouri,64050,Accident,Heroin and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/22/2019,Lees Summit,Missouri,64086,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+02/25/2019,Kansas City,Missouri,64130,Accident,Heroin and cyclobenzaprine intoxication,NULL,NULL,NULL,NULL
+02/26/2019,Kansas City,Missouri,64131,Accident,Acute heroin and methamphetamine intoxication,NULL,NULL,NULL,Cardiomegaly with left ventricular hypertrophy
+02/26/2019,Kansas City,Missouri,64131,Accident,Acute heroin and methamphetamine intoxication,NULL,NULL,NULL,Cardiomegaly
+02/27/2019,Grandview,Missouri,64030,Accident,Cocaine and fentanyl intoxication,NULL,NULL,NULL,NULL
+02/28/2019,Kansas City,Missouri,64126,Accident,Acute methadone and hydrocodone intoxication,NULL,NULL,NULL,NULL
+03/02/2019,Blue Springs,Missouri,64014,Accident,citalopram and methadone intoxication,NULL,NULL,NULL,bronchopneumonia
+03/02/2019,Kansas City,Missouri,64127,Accident,"Multiple drug (alprazolam, hydrocodone, and oxycodone) intoxication",NULL,NULL,NULL,NULL
+03/03/2019,Lees Summit,Missouri,64086,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+03/07/2019,Kansas City,Missouri,64130,Accident,Acute fentanyl and alprazolam intoxication,NULL,NULL,NULL,NULL
+03/25/2019,Greenwood,Missouri,64034,Accident,Heroin intoxication,NULL,NULL,NULL,NULL
+03/28/2019,Lees Summit,Missouri,64086,Accident,Drowning,NULL,NULL,NULL,Acute heroin and fentanyl intoxication
+04/06/2019,Kansas City,Missouri,64138,Accident,"Multiple drug intoxication (cocaine, methamphetamine, heroin, and benzodiazepines)",NULL,NULL,NULL,Acute bronchopneumonia
+04/10/2019,Kansas City,Missouri,64132,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+04/14/2019,Greenwood,Missouri,64034,Accident,Acute gabapentin intoxication,NULL,NULL,NULL,Citalopram and buprenorphine use
+04/15/2019,Kansas City,Missouri,64111,Accident,Acute methadone intoxication,NULL,NULL,NULL,NULL
+04/20/2019,Independence,Missouri,64052,Accident,Heroin intoxication,NULL,NULL,NULL,NULL
+04/20/2019,Raytown,Missouri,64133,Accident,cocaine and fentanyl intoxication,NULL,NULL,NULL,NULL
+04/23/2019,Kansas City,Missouri,64128,Accident,methamphetamine and heroin intoxication,NULL,NULL,NULL,NULL
+04/25/2019,Kansas City,Missouri,64106,Accident,"alprazolam, hydrocodone and ethanol combined toxicity",NULL,NULL,NULL,NULL
+04/29/2019,Independence,Missouri,64052,Accident,Methamphetamine and fentanyl intoxication ,,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+04/29/2019,Kansas City,Missouri,64126,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+05/07/2019,Oak Grove,Missouri,64075,Accident,Oxycodone intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+05/21/2019,Kansas City,Missouri,64126,Accident,Acute oxycodone and alprazolam intoxication,NULL,NULL,NULL,NULL
+05/22/2019,Kansas City,Missouri,64127,Accident,"Multiple drug (heroin, methamphetamine, and hydrocodone) intoxication",NULL,NULL,NULL,Bronchopneumonia
+05/26/2019,Independence,Missouri,64057,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,NULL
+06/16/2019,Raytown,Missouri,64138,Accident,"Multiple drug (cocaine, hydrocone, and oxycodone) and ethanol intoxication",NULL,NULL,NULL,NULL
+06/17/2019,Kansas City,Missouri,64132,Accident,Methadone and alprazolam intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+06/18/2019,Grandview,Missouri,64030,Accident,Heroin and methamphetamine intoxication ,NULL,NULL,NULL,Acute bronchopneumonia
+07/11/2019,Oak Grove,Missouri,64075,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+07/22/2019,Raytown,Missouri,64133,Accident,Acute oxycodone intoxication,NULL,NULL,NULL,"Chronic back pain, Chronic pulmonary hypertension, Obesity, Obstructive sleep apnea, Smoking"
+07/29/2019,Lees Summit,Missouri,64082,Accident,Acute hydrocodone and alprazolam intoxication,NULL,NULL,NULL,NULL
+07/31/2019,Kansas City,Missouri,64130,Accident,Acute codeine intoxication,NULL,NULL,NULL,NULL
+08/03/2019,Grain Valley,Missouri,64029,Accident,Cocaine and fentanyl intoxication,NULL,NULL,NULL,NULL
+08/14/2019,Kansas City,Missouri,64130,Accident,Heroin and methamphetamine intoxication ,NULL,NULL,NULL,Acute bronchopneumonia
+09/01/2019,Kansas City,Missouri,64131,Accident,Drug (Fentanyl) overdose,NULL,NULL,NULL,
+09/13/2019,Blue Springs,Missouri,64014,Accident,Acute heroin intoxication,NULL,NULL,NULL,NULL
+09/25/2019,Kansas City,Missouri,64123,Accident,Drug (morphine) overdose,NULL,NULL,NULL,
+10/03/2019,Blue Springs,Missouri,64014,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+10/04/2019,Kansas City,Missouri,64132,Accident,Combined fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+10/07/2019,Kansas City,Missouri,64129,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+10/08/2019,Kansas City,Missouri,64131,Accident,"Cocaine, heroin, and methamphetamine intoxication",NULL,NULL,NULL,NULL
+10/08/2019,Lees Summit,Missouri,64063,Suicide,"Acetaminophen, citalopram, cyclobenzaprine, and hydrocodone overdose",NULL,NULL,NULL,NULL
+10/31/2019,Oak Grove,Missouri,64075,Accident,Fentanyl and hydrocodone intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+11/10/2019,Kansas City,Missouri,64130,Accident,Heroin and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+11/25/2019,Independence,Missouri,64057,Suicide,"Toxic effects of multiple prescription medication including alprazolam, tramadol, and baclofen",NULL,NULL,NULL,NULL
+12/12/2019,Independence,Missouri,64052,Accident,Acute heroin and alprazolam intoxication,NULL,NULL,NULL,NULL
+12/13/2019,Kansas City,Missouri,64137,Accident,"Acute cocaine, fentanyl and ethanol intoxication",NULL,NULL,NULL,NULL
+12/23/2019,Kansas City,Missouri,64111,Accident,Acute fentanyl and methamphetamine intoxication,NULL,NULL,NULL,Cardiomegaly
+12/25/2019,Kansas City,Missouri,64108,Accident,Acute methamphetamine and heroin intoxication,NULL,NULL,NULL,NULL
+01/03/2020,Kansas City,Missouri,64111,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,Hypertensive cardiovascular disease
+01/20/2020,Independence,Missouri,64056,Suicide,Combined ethanol and oxycodone intoxication,NULL,NULL,NULL,NULL
+01/25/2020,Kansas City,Missouri,64133,Accident,Acute heroin intoxication,NULL,NULL,NULL,NULL
+01/30/2020,Kansas City,Missouri,64111,Accident,"Ethanol, fentanyl, and morphine intoxication",NULL,NULL,NULL,NULL
+02/02/2020,Sugar Creek,Missouri,64054,Suicide,Ethanol and oxycodone intoxication,NULL,NULL,NULL,NULL
+02/03/2020,Independence,Missouri,64055,Suicide,"Oxcarbazepine, hydroxyzine, and oxycodone combined toxicity",NULL,NULL,NULL,NULL
+02/09/2020,Greenwood,Missouri,64034,Accident,"Toxic effects of multiple medications including fentanyl, tramadol, pregabalin, amitriptyline, and clonazepam",NULL,NULL,NULL,NULL
+02/10/2020,Lees Summit,Missouri,64086,Accident,Methadone and alprazolam combined toxicity,NULL,NULL,NULL,Hepatic steatosis
+02/14/2020,Kansas City,Missouri,64106,Accident,Acute alprazolam and hydrocodone intoxication,NULL,NULL,NULL,NULL
+02/17/2020,Lone Jack,Missouri,64070,Accident,Acute heroin and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/22/2020,Kansas City,Missouri,64131,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+03/01/2020,Kansas City,Missouri,64128,Accident,"Ethanol, fentanyl, and cocaine intoxication ",NULL,NULL,NULL,NULL
+03/02/2020,Independence,Missouri,64056,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+03/07/2020,Kansas City,Missouri,64132,Accident,"Multidrug intoxication (oxycodone, fentanyl, and methadone)",NULL,NULL,NULL,"Hypertensive cardiovascular disease, diabetes mellitus, and morbid obesity"
+03/09/2020,Independence,Missouri,64055,Accident,Acute heroin intoxication,NULL,NULL,NULL,NULL
+03/12/2020,Kansas City,Missouri,64111,Accident,"Toxic effects of heroin, fentanyl, and clonazepam",NULL,NULL,NULL,NULL
+03/12/2020,Independence,Missouri,64058,Accident,Toxic effects of opiates including heroin,NULL,NULL,NULL,NULL
+03/14/2020,Independence,Missouri,64056,Accident,Toxic effects of methamphetamine and heroin,NULL,NULL,NULL,NULL
+03/19/2020,Oak Grove,Missouri,64075,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+03/25/2020,Lees Summit,Missouri,64086,Accident,Heroin and ethanol intoxication,NULL,NULL,NULL,NULL
+04/03/2020,Greenwood,Missouri,64034,Accident,Acute heroin and cocaine intoxication,NULL,NULL,NULL,NULL
+04/10/2020,Blue Springs,Missouri,64014,Accident,Oxycodone intoxication ,NULL,NULL,NULL,NULL
+04/13/2020,Blue Springs,Missouri,64015,Accident,Combined methadone and methamphetamine intoxication,NULL,NULL,NULL,NULL
+04/06/2020,Kansas City,Missouri,64127,Accident,Complications of probable heroin and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+04/19/2020,Greenwood,Missouri,64034,Accident,Acute heroin intoxication,NULL,NULL,NULL,NULL
+04/20/2020,Kansas City,Missouri,64130,Accident,Acute oxycodone intoxication,NULL,NULL,NULL,Sickle cell anemia
+04/20/2020,Kansas City,Missouri,64108,Accident, Combined fentanyl and ethanol intoxication,NULL,NULL,NULL,NULL
+05/05/2020,Kansas City,Missouri,64110,Accident,Methamphetamine and probable heroin intoxication,NULL,NULL,NULL,NULL
+05/08/2020,Kansas City,Missouri,64123,Accident,Combined methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+05/06/2020,Blue Springs,Missouri,64015,Accident,Anoxic brain injury,Probable opioid intoxication,NULL,NULL,NULL
+05/12/2020,Independence,Missouri,64055,Homicide,Blunt force trauma of the abdomen,,,NULL,Acute methamphetamine and fentanyl intoxication
+05/13/2020,Kansas City,Missouri,64111,Accident,"Ethanol, alprazolam, and fentanyl combined toxicity",NULL,NULL,NULL,NULL
+05/17/2020,Kansas City,Missouri,64105,Accident,Complications of amphetamine and oxycodone intoxication,NULL,NULL,NULL,NULL
+05/21/2020,Kansas City,Missouri,64112,Accident,Anoxic brain injury,Ethanol and oxycodone intoxication,NULL,NULL,NULL
+05/28/2020,Kansas City,Missouri,64109,Accident,Acute fentanyl and morphine intoxication,NULL,NULL,NULL,NULL
+05/29/2020,Grandview,Missouri,64030,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+06/01/2020,Kansas City,Missouri,64137,Accident,Heroin intoxication,NULL,NULL,NULL,
+06/01/2020,Blue Springs,Missouri,64015,Accident,Complications of fentanyl intoxication,NULL,NULL,NULL,NULL
+06/14/2020,Kansas City,Missouri,64124,Accident,Fentanyl and hydrocodone intoxication ,NULL,NULL,NULL,NULL
+06/17/2020,Kansas City,Missouri,64124,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+06/22/2020,Kansas City,Missouri,64111,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+06/23/2020,Blue Springs,Missouri,64015,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+06/27/2020,Lees Summit,Missouri,64081,Accident,"Multiple drug (methamphetamine, cocaine, heroin, and fentanyl) intoxication",NULL,NULL,NULL,NULL
+06/30/2020,Kansas City,Missouri,64114,Accident,Acute fentanyl and morphine intoxication,NULL,NULL,NULL,NULL
+07/02/2020,Greenwood,Missouri,64034,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+07/11/2020,Kansas City,Missouri,64130,Accident,Ethanol and fentanyl intoxication,NULL,NULL,NULL,NULL
+07/14/2020,Kansas City,Missouri,64145,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+07/25/2020,Kansas City,Missouri,64129,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+07/27/2020,Kansas City,Missouri,64124,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+07/28/2020,Kansas City,Missouri,64127,Accident,Acute fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+08/04/2020,Kansas City,Missouri,64127,Accident,Acute ethanol and multiple drug (fentanyl and benzodiazepines) intoxication,NULL,NULL,NULL,NULL
+08/09/2020,Independence,Missouri,64058,Accident,Drowning,NULL,NULL,NULL,Methamphetamine intoxication and fentanyl use
+08/10/2020,Kansas City,Missouri,64133,Accident,Hydrocodone intoxication,NULL,NULL,NULL,"Chronic obstructive pulmonary disease, chronic renal disease, atherosclerotic cardiovascular disease"
+08/10/2020,Kansas City,Missouri,64133,Accident,"Fentanyl and 3,4-methylenedioxyamphetamine intoxication",NULL,NULL,NULL,NULL
+08/13/2020,Kansas City,Missouri,64132,Accident,Acute ethanol and multiple drug (fentanyl and benzodiazepines) intoxication,NULL,NULL,NULL,NULL
+08/20/2020,Kansas City,Missouri,64130,Accident,"Alprazolam, codeine, fentanyl, and hydrocodone combined toxicity",NULL,NULL,NULL,NULL
+08/22/2020,Lees Summit,Missouri,64081,Accident,Acute heroin intoxication,NULL,NULL,NULL,NULL
+08/24/2020,Kansas City,Missouri,64127,Accident,Heroin and ethanol intoxication ,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease and hepatic steatosis
+09/03/2020,Kansas City,Missouri,64133,Accident,Combined fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+09/07/2020,Kansas City,Missouri,64124,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+09/17/2020,Kansas City,Missouri,64131,Accident,"Cocaine, oxycodone, and ethanol intoxication",NULL,NULL,NULL,NULL
+09/30/2020,Kansas City,Missouri,64137,Accident,"Methamphetamine, fentanyl, and morphine intoxication ",NULL,NULL,NULL,Poorly controlled type 1 diabetes mellitus
+10/05/2020,Independence,Missouri,64052,Accident,Fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+10/08/2020,Kansas City,Missouri,64110,Accident,Acute fentanyl and morphine intoxication,NULL,NULL,NULL,NULL
+10/24/2020,Kansas City,Missouri,64145,Accident,Combined fentanyl and 4-ANPP intoxication,NULL,NULL,NULL,NULL
+10/25/2020,Kansas City,Missouri,64123,Accident,Combined fentanyl and 4-ANPP intoxication,NULL,NULL,NULL,NULL
+10/29/2020,Kansas City,Missouri,64111,Accident,Acute fentanyl and cocaine intoxication,NULL,NULL,NULL,"Cardiomegaly with left ventricular hypertrophy, Status post remote myocardial infarct and coronary artery bypass graft, Diabetes mellitus, Hyperlipidemia"
+10/31/2020,Kansas City,Missouri,64127,Accident,"Cocaine, fentanyl, tramadol, and ethanol combined toxicity ",NULL,NULL,NULL,NULL
+10/31/2020,Oak Grove,Missouri,64075,Accident,Hydrocodone and carisoprodol combined toxicity ,NULL,NULL,NULL,Peritonitis and chronic ethanol abuse 
+11/02/2020,Lees Summit,Missouri,64086,Accident,Acute bronchopneumonia,NULL,NULL,NULL,"Alprazolam, clonazepam, lorazepam, buprenorphine, and oxycodone use"
+10/21/2020,Kansas City,Missouri,64108,Accident,Acute hypoxic respiratory failure,Oxycodone intoxication,NULL,NULL,"Sickle cell disease, bacterial endocarditis, and pulmonary emboli "
+11/08/2020,Independence,Missouri,64055,Accident,Acute lobar pneumonia ,NULL,NULL,NULL,"Diazepam, hydrocodone, and oxycodone use, chronic obstructive pulmonary disease, and oropharyngeal dysphagia"
+11/16/2020,Lees Summit,Missouri,64063,Accident,Acute heroin intoxication,NULL,NULL,NULL,NULL
+11/21/2020,Kansas City,Missouri,64123,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+12/03/2020,Kansas City,Missouri,64123,Accident,Fentanyl and alprazolam intoxication,NULL,NULL,NULL,NULL
+12/08/2020,Kansas City,Missouri,64106,Accident / Traffic,Multiple blunt force trauma,NULL,NULL,NULL,Oxycodone use
+12/13/2020,Kansas City,Missouri,64131,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+12/13/2020,Kansas City,Missouri,64130,Accident,Methamphetamine and heroin intoxication,NULL,NULL,NULL,NULL
+12/15/2020,Kansas City,Missouri,64133,Accident,Combined methamphetamine and heroin intoxication,NULL,NULL,NULL,NULL
+12/15/2020,Blue Springs,Missouri,64015,Accident,Combined alprazolam and oxycodone intoxication,NULL,NULL,NULL,Chronic obstructive pulmonary disease
+12/15/2020,Kansas City,Missouri,64102,Accident,Combined oxycodone and temazepam intoxication,NULL,NULL,NULL,NULL
+12/25/2020,Lees Summit,Missouri,64064,Accident,Fentanyl and cocaine intoxication ,NULL,NULL,NULL,Acute bronchopneumonia and cardiomegaly
+12/28/2020,Kansas City,Missouri,64126,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,NULL
+12/29/2020,Lees Summit,Missouri,64086,Accident,"Methamphetamine, fentanyl, and alprazolam combined toxicity ",NULL,NULL,NULL,NULL
+01/02/2021,Raytown,Missouri,64138,Could not be determined,"Fluoxetine, bupropion and methadone combined toxicity ",NULL,NULL,NULL,"Hypertensive and atherosclerotic cardiovascular disease with congestive heart failure, chronic kidney disease, chronic obstructive pulmonary disease and obesity"
+01/09/2021,Kansas City,Missouri,64133,Accident,Heroin and methamphetamine intoxication,NULL,NULL,NULL,NULL
+01/10/2021,Grandview,Missouri,64030,Accident,Acute alprazolam and fentanyl intoxication,NULL,NULL,NULL,NULL
+01/10/2021,Kansas City,Missouri,64124,Accident,"Multiple drug (fentanyl, cocaine, and methamphetamine) intoxication",NULL,NULL,NULL,NULL
+01/17/2021,Lees Summit,Missouri,64081,Accident,Pneumonia,SARS-CoV-2 infection,NULL,NULL,Acute fentanyl intoxication 
+01/18/2021,Kansas City,Missouri,64105,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,NULL
+01/21/2021,Kansas City,Missouri,64124,Accident,Acute fentanyl and 4-ANPP intoxication,NULL,NULL,NULL,NULL
+01/21/2021,Blue Springs,Missouri,64015,Accident,Acute fentanyl intoxication,,NULL,NULL,Acute bacterial peritonitis and chronic ethanol abuse
+01/25/2021,Kansas City,Missouri,64112,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+01/29/2021,Grandview,Missouri,64030,Accident,Fentanyl and hydrocodone intoxication ,NULL,NULL,NULL,Sickle cell disease
+02/04/2021,Blue Springs,Missouri,64015,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+02/05/2021,Kansas City,Missouri,64132,Accident,"Methamphetamine, fentanyl and cocaine intoxication",NULL,NULL,NULL,NULL
+02/07/2021,Lees Summit,Missouri,64063,Accident,"Fentanyl, heroin, and methamphetamine intoxication",NULL,NULL,NULL,NULL
+02/14/2021,Kansas City,Missouri,64129,Accident,"Fentanyl, heroin, and ethanol combined toxicity",NULL,NULL,NULL,cardiomegaly
+02/16/2021,Kansas City,Missouri,64130,Accident,"Multiple drug (fentanyl, methamphetamine, heroin) intoxication",NULL,NULL,NULL,NULL
+02/17/2021,Kansas City,Missouri,64124,Accident,Combined heroin and fentanyl intoxication,NULL,NULL,NULL,NULL
+03/01/2021,Grandview,Missouri,64030,Accident,Fentanyl intoxication,NULL,NULL,NULL,"Hypertensive and atherosclerotic cardiovascular disease, diabetes mellitus, morbid obesity, obstructive sleep apnea"
+03/01/2021,Kansas City,Missouri,64129,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+03/03/2021,Kansas City,Missouri,64133,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,Cardiomegaly 
+03/04/2021,Independence,Missouri,64057,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,
+03/12/2021,Independence,Missouri,64053,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+03/12/2021,Kansas City,Missouri,64139,Accident,Complications of fentanyl intoxication,NULL,NULL,NULL,NULL
+03/11/2021,Independence,Missouri,64056,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+03/16/2021,Kansas City,Missouri,64111,Accident,Fentanyl intoxication ,NULL,NULL,NULL,Heroin use
+03/18/2021,Kansas City,Missouri,64110,Accident,Acute fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+03/20/2021,Kansas City,Missouri,64133,Accident,"Ethanol, diazepam, and fentanyl combined toxicity",NULL,NULL,NULL,NULL
+03/22/2021,Kansas City,Missouri,64128,Accident,Fentanyl and cocaine intoxication,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+03/23/2021,Grandview,Missouri,64030,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+03/27/2021,Independence,Missouri,64057,Accident,Fentanyl and 4-ANPP intoxication,NULL,NULL,NULL,NULL
+03/24/2021,Grandview,Missouri,64030,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+03/30/2021,Kansas City,Missouri,64137,Accident,Combined fentanyl and alprazolam intoxication,NULL,NULL,NULL,NULL
+03/29/2021,Kansas City,Missouri,64108,Accident,Complications of fentanyl and morphine intoxication,NULL,NULL,NULL,NULL
+04/01/2021,Independence,Missouri,64055,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+04/04/2021,Lees Summit,Missouri,64063,Accident,Tramadol intoxication,NULL,NULL,NULL,End stage renal disease
+03/30/2021,Kansas City,Missouri,64128,Accident,Complications of ethanol and probable opioid intoxication,NULL,NULL,NULL,Chronic obstructive pulmonary disease
+04/04/2021,Independence,Missouri,64056,Accident,"Complications of alprazolam, fentanyl, and lorazepam combined toxicity",NULL,NULL,NULL,NULL
+04/09/2021,Kansas City,Missouri,64123,Accident,Combined cocaine and fentanyl intoxication,NULL,NULL,NULL,NULL
+04/10/2021,Independence,Missouri,64055,Accident,Combined heroin and methamphetamine intoxication,NULL,NULL,NULL,NULL
+04/12/2021,Kansas City,Missouri,64127,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,NULL
+04/14/2021,Kansas City,Missouri,64130,Accident,Acute fentanyl and cocaine intoxication,NULL,NULL,NULL,Hypertensive atherosclerotic cardiovascular disease
+04/09/2021,Kansas City,Missouri,64133,Accident,Acute fentanyl and ethanol intoxication,NULL,NULL,NULL,"Atrial fibrillation, Hypertension, Ischemic cardiomyopathy"
+04/16/2021,Independence,Missouri,64050,Accident,Methamphetamine and fentanyl intoxication ,NULL,NULL,NULL,Gastric signet ring cell carcinoma with chronic malnutrition
+04/17/2021,Kansas City,Missouri,64126,Accident,Methamphetamine and fentanyl combined toxicity,NULL,NULL,NULL,Atherosclerotic cardiovascular disease and morbid obesity 
+04/05/2021,Kansas City,Missouri,64136,Accident,Complications of opioid intoxication,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease and multiple small pulmonary emboli
+04/18/2021,Kansas City,Missouri,64110,Accident,Multiple drug (methamphetamine and heroin) intoxication,NULL,NULL,NULL,NULL
+04/19/2021,Kansas City,Missouri,64125,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+05/08/2021,Independence,Missouri,64052,Accident,Ethanol and fentanyl intoxication ,NULL,NULL,NULL,NULL
+05/10/2021,Oak Grove,Missouri,64075,Suicide,Morphine and alprazolam combined toxicity ,NULL,NULL,NULL,NULL
+05/13/2021,Blue Springs,Missouri,64014,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+05/14/2021,Kansas City,Missouri,64111,Accident,Toxic effects of fentanyl and alcohol,NULL,NULL,NULL,NULL
+05/15/2021,Kansas City,Missouri,64127,Accident,"Toxic effects of fentanyl and MDMA (3,4-Methylenedioxymethamphetamine)",NULL,NULL,NULL,NULL
+05/16/2021,Kansas City,Missouri,64130,Accident,Acute fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+05/16/2021,Kansas City,Missouri,64114,Accident,Combined toxicity of fentanyl and lorazepam,NULL,NULL,NULL,NULL
+05/18/2021,Lone Jack,Missouri,64070,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+05/18/2021,Independence,Missouri,64052,Accident,Fentanyl intoxication ,NULL,NULL,NULL,Alprazolam use; Acute bronchopneumonia
+05/20/2021,Kansas City,Missouri,64128,Accident,"Methamphetamine, fentanyl and heroin combined toxicity ",NULL,NULL,NULL,NULL
+05/27/2021,Buckner,Missouri,64016,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+05/27/2021,Kansas City,Missouri,64124,Accident,"Methamphetamine, alprazolam, fentanyl and heroin combined toxicity ",NULL,NULL,NULL,Bilateral pulmonary emboli and acute myocardial infarction 
+05/30/2021,Blue Springs,Missouri,64015,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,Cardiomegaly 
+06/04/2021,Lees Summit,Missouri,64086,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+06/05/2021,Kansas City,Missouri,64138,Accident,Acute oxycodone intoxication,NULL,NULL,NULL,NULL
+06/07/2021,Kansas City,Missouri,64123,Accident,Fentanyl and cocaine intoxication,NULL,NULL,NULL,NULL
+06/08/2021,Kansas City,Missouri,64127,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+06/09/2021,Independence,Missouri,64050,Accident,Fentanyl and alprazolam intoxication,NULL,NULL,NULL,NULL
+06/15/2021,Independence,Missouri,64050,Accident,Bilateral pulmonary emboli ,NULL,NULL,NULL,Fentanyl intoxication 
+06/17/2021,Kansas City,Missouri,64108,Accident,Fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+06/18/2021,Kansas City,Missouri,64131,Accident,Ethanol and  multiple drug (fentanyl and cocaine) intoxication,NULL,NULL,NULL,NULL
+06/18/2021,Grandview,Missouri,64030,Suicide,"Alprazolam, hydrocodone, and hydroxyzine overdose",NULL,NULL,NULL,NULL
+06/25/2021,Lees Summit,Missouri,64063,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+06/28/2021,Independence,Missouri,64052,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+07/03/2021,Kansas City,Missouri,64133,Accident,"Toxic effects of fentanyl, cocaine and alcohol",NULL,NULL,NULL,NULL
+07/04/2021,Kansas City,Missouri,64134,Accident,Toxic effects of fentanyl and oxycodone,NULL,NULL,NULL,"Hypertensive and atherosclerotic cardiovascular disease, diabetes mellitus"
+07/09/2021,Independence,Missouri,64057,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+07/18/2021,Kansas City,Missouri,64130,Accident,Fentanyl and cocaine intoxication,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+07/27/2021,Kansas City,Missouri,64126,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+08/01/2021,Kansas City,Missouri,64132,Accident,"Ethanol, fentanyl, and oxycodone combined toxicity ",NULL,NULL,NULL,NULL
+08/03/2021,Blue Springs,Missouri,64015,Accident,"Toxic effects of methamphetamine, heroin, and fentanyl",NULL,NULL,NULL,NULL
+08/04/2021,Grandview,Missouri,64030,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+08/09/2021,Independence,Missouri,64057,Accident,"Combined ethanol, fentanyl, and phencyclidine use",NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease and interstital lung disease 
+08/10/2021,Kansas City,Missouri,64128,Accident,Cocaine and fentanyl intoxication,NULL,NULL,NULL,
+08/19/2021,Kansas City,Missouri,64123,Accident,"Cocaine, methamphetamine and fentanyl combined toxicity",NULL,NULL,NULL,Congestive heart failure
+08/20/2021,Independence,Missouri,64053,Accident,Fentanyl intoxication ,NULL,NULL,NULL,Chronic ethanol abuse
+08/20/2021,Kansas City,Missouri,64132,Accident,"Fentanyl, oxycodone, and diphenhydramine intoxication",NULL,NULL,NULL,NULL
+08/20/2021,Independence,Missouri,64052,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+08/20/2021,Kansas City,Missouri,64110,Accident,"Methamphetamine, fentanyl and ethanol combined toxicity ",NULL,NULL,NULL,
+08/22/2021,Kansas City,Missouri,64138,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+08/25/2021,Kansas City,Missouri,64137,Accident,Amphetamine and fentanyl combined toxicity,NULL,NULL,NULL,NULL
+08/27/2021,Grandview,Missouri,64030,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+09/01/2021,Kansas City,Missouri,64124,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,Hypertensive cardiovascular disease; Morbid obesity
+09/01/2021,Kansas City,Missouri,64133,Accident,Congestive heart failure,NULL,NULL,NULL,"Methadone use, chronic obstructive pulmonary disease, type 2 diabetes mellitus with chronic kidney disease"
+09/02/2021,Lees Summit,Missouri,64063,Accident,Fentanyl and ethanol intoxication ,NULL,NULL,NULL,NULL
+09/06/2021,Blue Springs,Missouri,64015,Accident,Combined methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+09/08/2021,Independence,Missouri,64054,Accident,"Methamphetamine, alprazolam, fentanyl and oxycodone combined toxicity",NULL,NULL,NULL,NULL
+09/12/2021,Kansas City,Missouri,64128,Accident,Fentanyl and alprazolam intoxication ,NULL,NULL,NULL,NULL
+09/16/2021,Kansas City,Missouri,64131,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+09/17/2021,Oak Grove,Missouri,64075,Accident,"Complications of alprazolam, clonazepam, and probable morphine intoxication",NULL,NULL,NULL,NULL
+09/18/2021,Kansas City,Missouri,64130,Accident,Complications of fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+10/02/2021,Kansas City,Missouri,64123,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+10/03/2021,Kansas City,Missouri,64108,Accident,Fentanyl and ethanol intoxication ,NULL,NULL,NULL,Atherosclerotic cardiovascular disease
+10/04/2021,Blue Springs,Missouri,64014,Accident,Alprazolam and oxycodone intoxication,NULL,NULL,NULL,NULL
+10/08/2021,Independence,Missouri,64055,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+10/10/2021,Lees Summit,Missouri,64063,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+10/09/2021,Independence,Missouri,64052,Accident,Complications of fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+10/18/2021,Kansas City,Missouri,64111,Accident,Fentanyl and heroin intoxication ,NULL,NULL,NULL,NULL
+10/20/2021,Kansas City,Missouri,64131,Accident,Fentanyl and cocaine intoxication ,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease and hepatic cirrhosis
+10/22/2021,Lees Summit,Missouri,64064,Accident,Tramadol and alprazolam combined toxicity,NULL,NULL,NULL,Pneumonia
+10/25/2021,Independence,Missouri,64050,Accident,Fentanyl intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+10/25/2021,Grandview,Missouri,64030,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+10/26/2021,Kansas City,Missouri,64123,Accident,Fentanyl and cocaine intoxication,NULL,NULL,NULL,NULL
+10/28/2021,Independence,Missouri,64055,Accident,Combined methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+11/03/2021,Kansas City,Missouri,64123,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+11/07/2021,Greenwood,Missouri,64034,Accident,"Methadone, fluvoxamine, and alprazolam combined toxicity",NULL,NULL,NULL,NULL
+11/07/2021,Kansas City,Missouri,64112,Accident,"Multidrug intoxication (citalopram, diphenhydramine, clonazepam, alprazolam, diazepam, and hydrocodone)",NULL,NULL,NULL,NULL
+11/05/2021,Kansas City,Missouri,64130,Accident,Complications of fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+11/12/2021,Kansas City,,64134,Accident,Combined morphine and oxycodone intoxication,NULL,NULL,NULL,Metastatic cervical cancer 
+11/12/2021,Independence,Missouri,64052,Accident,Combined alprazolam and methadone intoxication,NULL,NULL,NULL,NULL
+11/13/2021,Independence,Missouri,64057,Accident,Drowning,NULL,NULL,NULL,Fentanyl and methamphetamine intoxication
+11/14/2021,Kansas City,Missouri,64106,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+11/21/2021,Independence,Missouri,64052,Accident,Combined alprazolam and oxycodone intoxication,NULL,NULL,NULL,NULL
+11/28/2021,Kansas City,Missouri,64127,Accident,"Hydrocodone, fentanyl, and cocaine intoxication ",NULL,NULL,NULL,NULL
+11/28/2021,Kansas City,Missouri,64132,Accident,Tramadol intoxication,NULL,NULL,NULL,Alprazolam and clonazepam use
+12/02/2021,Kansas City,Missouri,64128,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+12/03/2021,Independence,Missouri,64053,Could not be determined,Methamphetamine and fentanyl intoxication ,NULL,NULL,NULL,NULL
+12/10/2021,Kansas City,Missouri,64134,Accident,Acute fentanyl and cocaine intoxication,NULL,NULL,NULL,NULL
+12/10/2021,Kansas City,Missouri,64106,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,Hypertensive atherosclerotic cardiovascular disease
+12/11/2021,Kansas City,Missouri,64111,Accident,"Multiple drug (fentanyl, cocaine, methamphetamine) intoxication",NULL,NULL,NULL,"Hypertension, Liver cirrhosis, Chronic kidney disease"
+12/14/2021,Kansas City,Missouri,64125,Accident,Complications of fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+12/16/2021,Independence,Missouri,64052,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+12/17/2021,Independence,Missouri,64050,Accident,"Fentanyl, alprazolam and oxycodone combined toxicity ",NULL,NULL,NULL,NULL
+12/17/2021,Independence,Missouri,64050,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,NULL
+12/24/2021,Independence,Missouri,64057,Accident,Acute heroin intoxication,NULL,NULL,NULL,NULL
+12/31/2021,Kansas City,Missouri,64123,Accident,Acute fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+01/02/2022,Kansas City,Missouri,64112,Accident,Combined fentanyl and alprazolam intoxication,NULL,NULL,NULL,NULL
+01/08/2022,Buckner,Missouri,64016,Accident,Fentanyl intoxication,NULL,NULL,NULL,Hypertensive cardiovascular disease; Morbid obesity
+01/11/2022,Kansas City,Missouri,64139,Could not be determined,Fentanyl intoxication,NULL,NULL,NULL,NULL
+01/12/2022,Kansas City,Missouri,64130,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+01/14/2022,Lees Summit,Missouri,64086,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+01/14/2022,Kansas City,Missouri,64111,Accident,Toxic effects of fentanyl and methadone,NULL,NULL,NULL,NULL
+01/24/2022,Kansas City,Missouri,64136,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+01/22/2022,Kansas City,Missouri,64128,Accident,Multiorgan failure ,Aspiration pneumonia,"Acute methamphetamine, cocaine, and fentanyl intoxication ",NULL,SARS-CoV-19 infection 
+02/01/2022,Raytown,Missouri,64138,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/02/2022,Kansas City,Missouri,64109,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+02/04/2022,Independence,Missouri,64055,Accident,"Oxycodone, alprazolam, and ethanol combined toxicity",NULL,NULL,NULL,"Hypertensive and atherosclerotic cardiovascular disease, obstructive sleep apnea, and morbid obesity"
+02/04/2022,Kansas City,Missouri,64137,Could not be determined,Morphine intoxication,NULL,NULL,NULL,NULL
+02/05/2022,Independence,Missouri,64050,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+02/07/2022,Kansas City,Missouri,64108,Accident,Fentanyl and alprazolam intoxication,NULL,NULL,NULL,NULL
+02/10/2022,Independence,Missouri,64055,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/12/2022,Independence,Missouri,64052,Accident,Acute fentanyl intoxication ,NULL,NULL,NULL,NULL
+02/16/2022,Grandview,Missouri,64030,Accident,Fentanyl and heroin intoxication,NULL,NULL,NULL,NULL
+02/19/2022,Kansas City,Missouri,64129,Accident,Combined fentanyl and ethanol intoxication ,NULL,NULL,NULL,NULL
+09/13/2022,Kansas City,Missouri,64112,Accident,Complications of amphetamine and opioid abuse,NULL,NULL,NULL,NULL
+02/20/2022,Independence,Missouri,64055,Accident,Fentanyl and cocaine intoxication ,NULL,NULL,NULL,NULL
+02/23/2022,Kansas City,Missouri,64128,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+02/28/2022,Kansas City,Missouri,64134,Accident,Drowning,NULL,NULL,NULL,Fentanyl and methamphetamine intoxication 
+03/01/2022,Oak Grove,Missouri,64075,Accident,Fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+03/02/2022,Kansas City,Missouri,64128,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease;  Chronic kidney disease
+03/07/2022,Independence,Missouri,64050,Accident,Combined fentanyl and ethanol intoxication,NULL,NULL,NULL,NULL
+03/07/2022,Independence,Missouri,64058,Accident,Fentanyl intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+03/08/2022,Kansas City,Missouri,64124,Accident,"Combined cocaine, fentanyl, and methamphetamine intoxication",NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+03/08/2022,Independence,Missouri,64055,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+03/13/2022,Kansas City,Missouri,64130,Accident,Combined alprazolam and oxycodone intoxication,NULL,NULL,NULL,NULL
+03/14/2022,Independence,Missouri,64057,Accident,"Fentanyl, methadone, and methamphetamine intoxication",NULL,NULL,NULL,Heroin use
+03/16/2022,Independence,Missouri,64055,Suicide,Toxic effects of diazepam and multiple opiates with associated focal pneumonia,NULL,NULL,NULL,NULL
+03/22/2022,Lees Summit,Missouri,64081,Accident,Combined fentanyl and alprazolam intoxication,NULL,NULL,NULL,NULL
+03/23/2022,Kansas City,Missouri,64109,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+03/28/2022,Kansas City,Missouri,64109,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+03/28/2022,Kansas City,Missouri,64130,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+03/31/2022,Kansas City,Missouri,64114,Suicide,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+03/31/2022,Blue Springs,Missouri,64014,Accident,Alprazolam and fentanyl intoxication,NULL,NULL,NULL,NULL
+03/09/2022,Kansas City,Missouri,64109,Accident,Sepsis ,Pneumococcal pneumonia,Lung carcinoma with bronchial obstruction,NULL,Opiate abuse; Chronic obstructive pulmonary disease
+04/04/2022,Lees Summit,Missouri,64064,Accident,Cocaine and fentanyl intoxication,NULL,NULL,NULL,NULL
+04/07/2022,Independence,Missouri,64052,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,Hypertensive cardiovascular disease 
+04/10/2022,Kansas City,Missouri,64125,Accident,Combined alprazolam and fentanyl use,NULL,NULL,NULL,NULL
+04/12/2022,Greenwood,Missouri,64034,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+04/15/2022,Kansas City,Missouri,64138,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+04/14/2022,Grandview,Missouri,64030,Accident,Complications of fentanyl intoxication,NULL,NULL,NULL,NULL
+04/17/2022,Kansas City,Missouri,64134,Accident,Fentanyl and cocaine intoxication,NULL,NULL,NULL,NULL
+04/23/2022,Kansas City,Missouri,64120,Accident,Asphyxia,Choking,NULL,NULL,Acute fentanyl intoxication
+04/24/2022,Kansas City,Missouri,64108,Suicide,Fentanyl and ketamine intoxication,NULL,NULL,NULL,NULL
+04/24/2022,Kansas City,Missouri,64128,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,Heroin use
+04/29/2022,Independence,Missouri,64055,Accident,Combined fentanyl and oxycodone intoxication,NULL,NULL,NULL,Amyoplasia congenita 
+05/01/2022,Kansas City,Missouri,64145,Accident,"Methadone, alprazolam, temazepam, and meprobamate combined toxicity",NULL,NULL,NULL,NULL
+05/08/2022,Kansas City,Missouri,64129,Accident,Combined ethanol and fentanyl intoxication,NULL,NULL,NULL,NULL
+05/08/2022,Kansas City,Missouri,64134,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+05/09/2022,Blue Springs,Missouri,64014,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+05/09/2022,Kansas City,Missouri,64109,Accident,"Cocaine, fentanyl and phencyclidine intoxication",NULL,NULL,NULL,NULL
+05/09/2022,Kansas City,Missouri,64109,Accident,Cocaine and fentanyl intoxication ,NULL,NULL,NULL,NULL
+05/09/2022,Kansas City,Missouri,64134,Accident,Fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+05/18/2022,Kansas City,Missouri,64133,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+05/23/2022,Kansas City,Missouri,64110,Accident,Acute fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+05/28/2022,Independence,Missouri,64052,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+05/28/2022,Blue Springs,Missouri,64014,Accident,"Toxic effects of methamphetamine, fentanyl and cocaine",NULL,NULL,NULL,NULL
+05/28/2022,Kansas City,Missouri,64126,Could not be determined,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+05/30/2022,Grandview,Missouri,64030,Accident,Tramadol and alprazolam combined toxicity,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease and probable asthma
+06/01/2022,Kansas City,Missouri,64134,Could not be determined,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+06/02/2022,Independence,Missouri,64052,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+06/03/2022,Independence,Missouri,64056,Accident,Oxycodone and alprazolam combined toxicity,NULL,NULL,NULL,chronic obstructive pulmonary disease and acute bronchopneumonia
+06/01/2022,Kansas City,Missouri,64133,Accident,Complications of fentanyl intoxication ,NULL,NULL,NULL,NULL
+06/04/2022,Grandview,Missouri,64030,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,Hypertensive cardiovascular disease
+06/06/2022,Lone Jack,Missouri,64070,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+06/08/2022,Kansas City,Missouri,64128,Accident,"Combined cocaine, fentanyl, hydrocodone, and oxycodone intoxication",NULL,NULL,NULL,NULL
+06/12/2022,Blue Springs,Missouri,64015,Accident,Cocaine and fentanyl intoxication ,NULL,NULL,NULL,NULL
+06/12/2022,Kansas City,Missouri,64132,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+06/17/2022,Independence,Missouri,64052,Accident,Acute bronchopneumonia,NULL,NULL,NULL,"Buprenorphine intoxication, congestive heart failure, morbid obesity, chronic kidney disease"
+06/17/2022,Kansas City,Missouri,64125,Accident,"Methamphetamine, heroin, fentanyl, and cocaine combined toxicity ",NULL,NULL,NULL,NULL
+06/18/2022,Kansas City,Missouri,64146,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+06/19/2022,Grandview,Missouri,64030,Accident,Fentanyl intoxication,NULL,NULL,NULL,Congestive heart failure and chronic obstructive pulmonary disease
+06/19/2022,Independence,Missouri,64055,Accident,"Methamphetamine, alprazolam, fentanyl, morphine, and cocaine combined toxicity",NULL,NULL,NULL,NULL
+06/21/2022,Kansas City,Missouri,64126,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+06/22/2022,Grandview,Missouri,64030,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+06/28/2022,Kansas City,Missouri,64130,Accident,Cocaine and fentanyl intoxication ,NULL,NULL,NULL,NULL
+06/29/2022,Grain Valley,Missouri,64029,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+06/30/2022,Kansas City,Missouri,64130,Accident,Toxic effects of fentanyl and phencyclidine,NULL,NULL,NULL,NULL
+07/08/2022,Kansas City,Missouri,64124,Accident,Fentanyl and cocaine intoxication ,NULL,NULL,NULL,NULL
+07/08/2022,Kansas City,Missouri,64108,Accident,Fentanyl use,NULL,NULL,NULL,Acute bronchopneumonia
+07/10/2022,Independence,Missouri,64052,Accident,Fentanyl intoxication ,NULL,NULL,NULL,Bronchial asthma
+07/11/2022,Kansas City,Missouri,64124,Accident,"Fentanyl, methamphetamine and morphine intoxication",NULL,NULL,NULL,NULL
+07/17/2022,Kansas City,Missouri,64138,Accident,"Combined alprazolam, ethanol and tramadol intoxication",NULL,NULL,NULL,NULL
+07/25/2022,Independence,Missouri,64050,Accident,Combined fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+07/27/2022,Kansas City,Missouri,64131,Accident,Complications of fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+07/29/2022,Kansas City,Missouri,64110,Accident,Combined cocaine and fentanyl intoxication ,NULL,NULL,NULL,NULL
+07/31/2022,Independence,Missouri,64055,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,NULL
+08/01/2022,Kansas City,Missouri,64145,Accident,Fentanyl and methamphetamine combined toxicity ,NULL,NULL,NULL,NULL
+08/07/2022,Independence,Missouri,64052,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+08/07/2022,Greenwood,Missouri,64034,Accident,Fentanyl and ethanol intoxication ,NULL,NULL,NULL,NULL
+08/07/2022,Raytown,Missouri,NULL,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+08/11/2022,Independence,Missouri,64052,Accident,Acute fentanyl intoxication ,NULL,NULL,NULL,NULL
+08/14/2022,Kansas City,Missouri,64133,Accident,"Fentanyl, cocaine and phencyclidine intoxication ",NULL,,,NULL
+08/14/2022,Independence,Missouri,64056,Accident,Complications of fentanyl intoxication,NULL,NULL,NULL,Probable heroin use
+08/15/2022,Kansas City,Missouri,64130,Accident,Fentanyl and methamphetamine combined toxicity,NULL,NULL,NULL,NULL
+08/16/2022,Lees Summit,Missouri,64081,Accident,Fentanyl and alprazolam intoxication ,NULL,NULL,NULL,NULL
+08/17/2022,Kansas City,Missouri,64131,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+08/17/2022,Independence,Missouri,64055,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+08/18/2022,Kansas City,Missouri,64109,Accident,Fentanyl and methadone intoxication ,NULL,NULL,NULL,NULL
+08/18/2022,Kansas City,Missouri,64127,Accident,Fentanyl and methamphetamine combined toxicity ,NULL,NULL,NULL,"Acute on chronic ethanol abuse, hypertensive and atherosclerotic cardiovascular disease with congestive heart failure"
+08/18/2022,Independence,Missouri,64055,Could not be determined,Fentanyl and cocaine combined toxicity ,NULL,NULL,NULL,NULL
+08/20/2022,Independence,Missouri,64050,Accident,Fentanyl and methadone combined toxicity ,NULL,NULL,NULL,NULL
+08/22/2022,Blue Springs,Missouri,64014,Accident,Fentanyl and cocaine combined toxicity,NULL,NULL,NULL,Acute bronchopneumonia
+08/24/2022,Blue Springs,Missouri,64015,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+08/24/2022,Oak Grove,Missouri,64075,Could not be determined,Fentanyl intoxication,NULL,NULL,NULL,Acute pneumonia
+08/25/2022,Blue Springs,Missouri,64015,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+08/27/2022,Kansas City,Missouri,64110,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+08/30/2022,Kansas City,Missouri,64131,Accident,Methamphetamine and fentanyl combined intoxication,NULL,NULL,NULL,NULL
+08/30/2022,Kansas City,Missouri,64137,Accident,Fentanyl and ethanol combined toxicity ,NULL,NULL,NULL,NULL
+09/01/2022,Kansas City,Missouri,64128,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+08/31/2022,Independence,Missouri,64050,Accident,Fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+09/03/2022,Kansas City,Missouri,64109,Accident,"Toxic effects of fentanyl, cocaine, and phencyclidine",NULL,NULL,NULL,NULL
+09/03/2022,Kansas City,Missouri,64123,Accident,"Toxic effects of methamphetamine, cocaine and fentanyl",NULL,NULL,NULL,NULL
+09/03/2022,Kansas City,Missouri,64130,Accident,Toxic effects of heroin and cocaine,NULL,NULL,NULL,Congestive heart failure
+09/05/2022,Kansas City,Missouri,64109,Accident,"Cocaine, fentanyl, and ethanol combined toxicity",NULL,NULL,NULL,"Hypertensive and atherosclerotic cardiovascular disease, hepatic cirrhosis, chronic obstructive pulmonary disease"
+09/03/2022,Kansas City,Missouri,64133,Accident,"Methamphetamine, cocaine, and fentanyl combined toxicity",NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+09/07/2022,Kansas City,Missouri,64128,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+09/09/2022,Kansas City,Missouri,64127,Accident,"Fentanyl, diazepam, methamphetamine and oxycodone combined toxicity",NULL,NULL,NULL,NULL
+09/10/2022,Kansas City,Missouri,64128,Accident,"Ethanol, fentanyl, and cocaine combined toxicity",NULL,NULL,NULL,NULL
+09/11/2022,Kansas City,Missouri,64132,Accident,Methamphetamine and fentanyl combined toxicity,NULL,NULL,NULL,Hypertensive cardiovascular disease
+09/13/2022,Kansas City,Missouri,64128,Accident,Fentanyl and cocaine intoxication ,NULL,NULL,NULL,NULL
+09/15/2022,Kansas City,Missouri,64133,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+09/15/2022,Kansas City,Missouri,64124,Accident,Fentanyl and methamphetamine combined intoxication,NULL,NULL,NULL,Epilepsy 
+09/17/2022,Kansas City,Missouri,64110,Accident,Combined methamphetamine and fentanyl intoxication ,NULL,NULL,NULL,NULL
+09/19/2022,Kansas City,Missouri,64109,Suicide,Morphine intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+09/26/2022,Kansas City,Missouri,64138,Accident,Cocaine and fentanyl combined intoxication,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+09/26/2022,Kansas City,Missouri,64127,Accident,Fentanyl and cocaine intoxication ,NULL,NULL,NULL,NULL
+09/27/2022,Kansas City,Missouri,64127,Accident,Toxic effects of cocaine and fentanyl,NULL,NULL,NULL,NULL
+09/27/2022,Kansas City,Missouri,64138,Accident,Toxic effects of cocaine and fentanyl,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+09/27/2022,Blue Springs,Missouri,64015,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+09/27/2022,Kansas City,Missouri,64128,Accident,Toxic effects of cocaine and fentanyl,NULL,NULL,NULL,Hypertensive cardiovascular disease and diabetes mellitus
+09/27/2022,Kansas City,Missouri,64128,Accident,Toxic effects of cocaine and fentanyl,NULL,NULL,NULL,NULL
+09/28/2022,Kansas City,Missouri,64132,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+09/28/2022,Kansas City,Missouri,64110,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+09/28/2022,Kansas City,Missouri,64128,Accident,Toxic effects of cocaine and fentanyl,NULL,NULL,NULL,NULL
+09/29/2022,Kansas City,Missouri,64130,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+09/30/2022,Kansas City,Missouri,64132,Accident,Toxic effects of fentanyl and phencyclidine,NULL,NULL,NULL,NULL
+10/01/2022,Independence,Missouri,64058,Accident,Smoke inhalation and thermal injuries,NULL,NULL,NULL,Toxic effects of methamphetamine and fentanyl
+10/02/2022,Kansas City,Missouri,64133,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+10/05/2022,Independence,Missouri,64050,Accident,Hepatic cirrhosis,NULL,NULL,NULL,"Chronic kidney disease; lorazepam, alprazolam, hydrocodone, morphine use"
+10/05/2022,Kansas City,Missouri,64130,Accident,Fentanyl and cocaine combined intoxication ,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease 
+10/08/2022,Kansas City,Missouri,64129,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+10/08/2022,Kansas City,Missouri,64130,Accident,Acute fentanyl intoxication ,NULL,NULL,NULL,NULL
+10/08/2022,Greenwood,Missouri,64034,Accident,Acute methadone intoxication ,Bronchopleural fistula with necrotizing pneumonia,Pseudomonas aeruginosa infection ,Bronchopleural fistula ,"Chronic obstructive pulmonary disease with bronchiectasis, recent thoracic surgery, and protein calorie malnutrition "
+10/09/2022,Kansas City,Missouri,64109,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+10/09/2022,Kansas City,Missouri,64130,Accident,"Cocaine, fentanyl, and methamphetamine combined toxicity",NULL,NULL,NULL,NULL
+10/09/2022,Independence,Missouri,64056,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+10/11/2022,Kansas City,Missouri,64130,Accident,Fentanyl and cocaine intoxication,NULL,NULL,NULL,NULL
+10/11/2022,Kansas City,Missouri,64130,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+10/10/2022,Kansas City,Missouri,64123,Accident,Complications of fentanyl and methamphetamine combined intoxication,NULL,NULL,NULL,NULL
+10/13/2022,Kansas City,Missouri,64128,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+10/15/2022,Kansas City,Missouri,64123,Accident,Acute fentanyl intoxication ,NULL,NULL,NULL,NULL
+10/16/2022,Kansas City,Missouri,64106,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+10/22/2022,Oak Grove,Missouri,64075,Accident,Fentanyl and oxycodone intoxication ,NULL,NULL,NULL,Chronic obstructive pulmonary disease
+10/24/2022,Independence,Missouri,64056,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+10/24/2022,Kansas City,Missouri,64109,Accident,"Fentanyl, fluorofentanyl, xylazine, cocaine, and ethanol combined toxicity ",NULL,NULL,NULL,NULL
+10/22/2022,Kansas City,Missouri,64123,Accident,"Fentanyl, methamphetamine, and ethanol combined toxicity",NULL,NULL,NULL,NULL
+10/25/2022,Kansas City,Missouri,64124,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+10/26/2022,Kansas City,Missouri,64106,Accident,Complications of fentanyl intoxication,NULL,NULL,NULL,NULL
+10/29/2022,Kansas City,Missouri,64109,Accident,"Methamphetamine, fentanyl, and cocaine combined toxicity ",NULL,NULL,NULL,NULL
+10/30/2022,Independence,Missouri,64055,Accident,Combined fentanyl and oxycodone toxicity,NULL,NULL,NULL,NULL
+11/01/2022,Blue Springs,Missouri,64015,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+11/04/2022,Kansas City,Missouri,64132,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+10/20/2022,Kansas City,Missouri,64127,Accident,Congestive heart failure,NULL,NULL,NULL,Chronic intravenous drug use including methamphetamine and heroin
+11/08/2022,Kansas City,Missouri,64109,Accident,Fentanyl intoxication and cocaine use,NULL,NULL,NULL,NULL
+11/08/2022,Kansas City,Missouri,64127,Accident,Cocaine and fentanyl intoxication,NULL,NULL,NULL,NULL
+11/06/2022,Kansas City,Missouri,64127,Accident,Fentanyl intoxication and cocaine use,NULL,NULL,NULL,NULL
+11/10/2022,Kansas City,Missouri,64131,Accident,Combined cocaine and fentanyl intoxication ,NULL,NULL,NULL,"Hypertensive and atherosclerotic cardiovascular disease, congestive heart failure, and diabetes mellitus "
+11/12/2022,Blue Springs,Missouri,64015,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+11/13/2022,Kansas City,Missouri,64138,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+11/15/2022,Kansas City,Missouri,64111,Accident,Toxic effects of fentanyl and alcohol,NULL,NULL,NULL,NULL
+11/16/2022,Independence,Missouri,64052,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+11/17/2022,Independence,Missouri,64057,Accident,Toxic effects of fentanyl and alcohol,NULL,NULL,NULL,NULL
+11/17/2022,Grandview,Missouri,64030,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+11/21/2022,Independence,Missouri,64052,Accident,Fentanyl intoxication,NULL,NULL,NULL,Influenza A viral infection
+11/23/2022,Lees Summit,Missouri,64063,Accident,Fentanyl intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+11/23/2022,Kansas City,Missouri,64130,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+11/24/2022,Kansas City,Missouri,64132,Accident,Methamphetamine and fentanyl intoxication ,NULL,NULL,NULL,Acute bronchopneumonia
+11/27/2022,Kansas City,Missouri,64127,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+11/24/2022,Blue Springs,Missouri,64015,Accident,Complications of fentanyl intoxication,NULL,NULL,NULL,"Septic shock, chronic obstructive pulmonary disease, chronic hepatitis C viral infection"
+12/03/2022,Kansas City,Missouri,64127,Accident,Combined methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+12/03/2022,Kansas City,Missouri,64109,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+12/06/2022,Kansas City,Missouri,64114,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+12/09/2022,Lees Summit,Missouri,64064,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+12/11/2022,Kansas City,Missouri,64123,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,"Environmental hypothermia, chronic ethanol abuse"
+12/11/2022,Independence,Missouri,64055,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+12/13/2022,Kansas City,Missouri,64101,Accident,Complications of fentanyl intoxication,NULL,NULL,NULL,NULL
+12/23/2022,Kansas City,Missouri,64129,Accident,"Complications of fentanyl, methamphetamine, and phencyclidine intoxication",NULL,NULL,NULL,Environmental hypothermia
+12/23/2022,Kansas City,Missouri,64129,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+12/25/2022,Independence,Missouri,64055,Accident,"Cocaine, fentanyl, and MDMA intoxication",NULL,NULL,NULL,NULL
+12/26/2022,Kansas City,Missouri,64134,Accident,Oxycodone and ethanol intoxication,NULL,NULL,NULL,Hypertensive cardiovascular disease; morbid obesity
+12/26/2022,Kansas City,Missouri,64127,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+01/07/2023,Blue Springs,Missouri,64015,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+01/10/2023,Independence,Missouri,64050,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+01/12/2023,Kansas City,Missouri,64132,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+01/12/2023,Kansas City,Missouri,64108,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+01/12/2023,Independence,Missouri,64052,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+01/13/2023,Kansas City,Missouri,64130,Accident,"Toxic effects of cocaine, fentanyl, and phencyclidine",NULL,NULL,NULL,NULL
+01/13/2023,Kansas City,Missouri,64133,Accident,Toxic effects of oxycodone,NULL,NULL,NULL,Steatohepatitis and chronic pancreatitis
+01/14/2023,Kansas City,Missouri,64129,Accident,"Toxic effects of methamphetamine, fentanyl, and alprazolam",NULL,NULL,NULL,NULL
+01/17/2023,Independence,Missouri,64055,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,Acute pyelonephritis
+01/17/2023,Independence,Missouri,64057,Suicide,Bupropion overdose,NULL,NULL,NULL,"Major depressive disorder; Clonazepam, cyclobenzaprine, and oxycodone use"
+01/18/2023,Independence,Missouri,64050,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+01/20/2023,Independence,Missouri,64052,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+01/23/2023,Kansas City,Missouri,64124,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+01/29/2023,Blue Springs,Missouri,64014,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+01/29/2023,Kansas City,Missouri,64126,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+01/30/2023,Blue Springs,Missouri,64015,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+02/01/2023,Kansas City,Missouri,64123,Accident,Acute fentanyl intoxication ,NULL,NULL,NULL,NULL
+02/01/2023,Kansas City,Missouri,64109,Accident,"Cocaine, fentanyl, and ethanol intoxication",NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+02/02/2023,Independence,Missouri,64054,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+02/06/2023,Kansas City,Missouri,64127,Accident,Fentanyl and cocaine intoxication,NULL,NULL,NULL,NULL
+02/09/2023,Kansas City,Missouri,64131,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/14/2023,Kansas City,Missouri,64128,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/14/2023,Kansas City,Missouri,64130,Suicide,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/14/2023,Kansas City,Missouri,64128,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/18/2023,Kansas City,Missouri,64130,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+02/18/2023,Kansas City,Missouri,64130,Accident,Toxic effects of cocaine and fentanyl,NULL,NULL,NULL,NULL
+02/20/2023,Kansas City,Missouri,64128,Accident,"Acetyl fentanyl, fentanyl, and methamphetamine intoxication",NULL,NULL,NULL,NULL
+02/21/2023,Kansas City,Missouri,64130,Accident,Cocaine and fentanyl intoxication ,NULL,NULL,NULL,NULL
+02/22/2023,Kansas City,Missouri,64109,Accident,Fentanyl and cocaine intoxication,NULL,NULL,NULL,NULL
+02/23/2023,Kansas City,Missouri,64123,Accident,Acetylfentanyl and fentanyl intoxication,NULL,NULL,NULL,NULL
+02/25/2023,Kansas City,Missouri,64130,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+02/26/2023,Kansas City,Missouri,64109,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+02/27/2023,Kansas City,Missouri,64130,Accident,"Methamphetamine, fentanyl, and cocaine intoxication",NULL,NULL,NULL,NULL
+02/27/2023,Kansas City,Missouri,64130,Accident,"Acetylfentanyl, fentanyl, and cocaine intoxication",NULL,NULL,NULL,NULL
+03/01/2023,Kansas City,Missouri,64132,Accident,Cocaine and fentanyl intoxication,NULL,NULL,NULL,NULL
+03/01/2023,Kansas City,Missouri,64109,Accident,Probable fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+03/01/2023,Kansas City,Missouri,64109,Accident,"Acetylfentanyl, fentanyl, and cocaine intoxication",NULL,NULL,NULL,NULL
+03/01/2023,Independence,Missouri,64050,Accident,Fentanyl and morphine intoxication,NULL,NULL,NULL,NULL
+03/02/2023,Independence,Missouri,64050,Accident,"Acetylfentanyl, fentanyl, mitragynine, and bromazolam intoxication",NULL,NULL,NULL,NULL
+03/05/2023,Kansas City,Missouri,64128,Accident,Combined fentanyl and cocaine intoxication,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease 
+03/06/2023,Kansas City,Missouri,64128,Accident,Fentanyl and cocaine intoxication,NULL,NULL,NULL,Acute bronchopneumonia 
+03/06/2023,Independence,Missouri,64055,Accident,"Acetylfentanyl, fentanyl, and ethanol intoxication",NULL,NULL,NULL,NULL
+03/07/2023,Kansas City,Missouri,64128,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+03/08/2023,Kansas City,Missouri,64131,Accident,Combined ethanol and oxycodone toxicity ,NULL,NULL,NULL,NULL
+03/10/2023,Kansas City,Missouri,64109,Accident,Toxic effects of fentanyl and heroin,NULL,NULL,NULL,NULL
+03/10/2023,Kansas City,Missouri,64138,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+03/12/2023,Kansas City,Missouri,64128,Accident,Acute Fentanyl and Methamphetamine Toxicity,NULL,NULL,NULL,NULL
+03/18/2023,Independence,Missouri,64054,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+03/18/2023,Independence,Missouri,64056,Suicide,Inhalation of nitrous oxide and fentanyl intoxication,NULL,NULL,NULL,NULL
+03/28/2023,Kansas City,Missouri,64112,Accident,Complications of anoxic brain injury,"Methamphetamine, 4-ANPP, and fentanyl intoxication ",NULL,NULL,NULL
+04/02/2023,Kansas City,Missouri,64133,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,Sarcoidosis
+04/05/2023,Kansas City,Missouri,64128,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+04/05/2023,Kansas City,Missouri,64111,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+04/07/2023,Kansas City,Missouri,64109,Accident,Toxic effects of fentanyl and cocaine,NULL,NULL,NULL,NULL
+04/08/2023,Kansas City,Missouri,64131,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+04/11/2023,Independence,Missouri,64056,Accident,Fentanyl and acetylfentanyl intoxication,NULL,NULL,NULL,NULL
+04/11/2023,Kansas City,Missouri,64132,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+04/12/2023,Independence,Missouri,64052,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+04/13/2023,Independence,Missouri,64050,Accident,Acute Fentanyl Toxicity,NULL,NULL,NULL,NULL
+04/15/2023,Kansas City,Missouri,64109,Accident,"Heroin, cocaine, and ethanol combined intoxication",NULL,NULL,NULL,NULL
+04/16/2023,Kansas City,Missouri,64106,Accident,Fentanyl and Methamphetamine Toxicity,NULL,NULL,NULL,Atherosclerotic and Hypertensive Cardiovascular Disease
+04/13/2023,Kansas City,Missouri,64125,Accident,Complications of anoxic brain injury,Recent fentanyl use,NULL,NULL,Diabetes mellitus 
+04/19/2023,Kansas City,Missouri,64106,Accident,"Acetylfentanyl, fentanyl, and methamphetamine intoxication",NULL,NULL,NULL,NULL
+04/21/2023,Kansas City,Missouri,64106,Accident,Acute fentanyl intoxication ,NULL,NULL,NULL,NULL
+04/23/2023,Kansas City,Missouri,64131,Accident,Fentanyl intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+04/23/2023,Kansas City,Missouri,64130,Accident,Acute Fentanyl and Methamphetamine Toxicity,NULL,NULL,NULL,NULL
+04/24/2023,Kansas City,Missouri,64108,Accident,Acute Fentanyl and Methamphetamine Toxicity,NULL,NULL,NULL,NULL
+04/25/2023,Kansas City,Missouri,64127,Accident,Acute Fentanyl and Methamphetamine Toxicity,NULL,NULL,NULL,Hypertension; Cardiomyopathy; Chronic Debility; Prior Venous Thromboembolism; History of Cellulitis and Recurrent Prosthetic Knee Joint Infection
+04/27/2023,Kansas City,Missouri,64124,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+04/28/2023,Kansas City,Missouri,64106,Accident,Acute Fentanyl Toxicity,NULL,NULL,NULL,NULL
+04/29/2023,Kansas City,Missouri,64106,Could not be determined,Acute Oxycodone and Clonazepam Toxicity,NULL,NULL,NULL,Atherosclerotic and Hypertensive-Type Cardiovascular Disease; Pulmonary Emphysema
+05/05/2023,Kansas City,Missouri,64130,Accident,Toxic effects of fentanyl and synthetic cannabinoids,NULL,NULL,NULL,NULL
+05/06/2023,Kansas City,Missouri,64111,Accident,"Toxic effects of methamphetamine, fentanyl, and cocaine",NULL,NULL,NULL,NULL
+05/07/2023,Kansas City,Missouri,64133,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+05/07/2023,Kansas City,Missouri,64131,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+05/09/2023,Kansas City,Missouri,64106,Accident,"Cocaine, fentanyl, and methamphetamine intoxication",NULL,NULL,NULL,NULL
+05/10/2023,Independence,Missouri,64052,Accident,"Cocaine, ethanol, fentanyl, and methamphetamine intoxication",NULL,NULL,NULL,NULL
+05/16/2023,Kansas City,Missouri,64106,Accident,Hypertensive-Type and Atherosclerotic Cardiovascular Disease,NULL,NULL,NULL,Complications of Chronic Alcohol Abuse; Fentanyl Toxicity
+05/17/2023,Kansas City,Missouri,64111,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+05/20/2023,Kansas City,Missouri,64109,Accident,Acute Fentanyl Toxicity,NULL,NULL,NULL,NULL
+05/21/2023,Kansas City,Missouri,64110,Accident,"Methamphetamine, fentanyl, and oxycodone intoxication",NULL,NULL,NULL,"Hypertensive cardiovascular disease, obesity"
+05/26/2023,Lees Summit,Missouri,64063,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+05/27/2023,Independence,Missouri,64055,Accident,Combined ethanol and fentanyl intoxication,NULL,NULL,NULL,NULL
+05/29/2023,Kansas City,Missouri,64111,Accident,"Fentanyl, cocaine, and ethanol combined intoxication ",NULL,NULL,NULL,NULL
+05/31/2023,Kansas City,Missouri,64134,Accident,Fentanyl intoxication,NULL,NULL,NULL,"Diabetic ketoacidosis, sickle cell anemia"
+06/01/2023,Kansas City,Missouri,64134,Suicide,Acute Oxycodone and Clonazepam Toxicity,NULL,NULL,NULL,NULL
+06/01/2023,Independence,Missouri,64050,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+06/02/2023,Kansas City,Missouri,64126,Could not be determined,Toxic effects of oxycodone,NULL,NULL,NULL,NULL
+06/10/2023,Oak Grove,Missouri,64075,Accident,"Fluorofentanyl, fentanyl and 4-ANPP toxicity",NULL,NULL,NULL,NULL
+06/20/2023,Kansas City,Missouri,64133,Accident,Combined methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+06/21/2023,Kansas City,Missouri,64114,Accident,"Acute Acetylfentanyl, Fentanyl, Cocaine, and Methamphetamine Toxicity",NULL,NULL,NULL,NULL
+06/21/2023,Lees Summit,Missouri,64082,Could not be determined,Acute Fentanyl and Acetylfentanyl Toxicity,NULL,NULL,NULL,NULL
+06/27/2023,Kansas City,Missouri,64129,Accident,Ethanol and fentanyl intoxication,NULL,NULL,NULL,NULL
+07/02/2023,Lone Jack,Missouri,64070,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+07/02/2023,Kansas City,Missouri,64128,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+07/03/2023,Kansas City,Missouri,64132,Accident,"Toxic effects of fentanyl, cocaine, and 3,4-methylenedioxymethamphetamine(MDMA)",NULL,NULL,NULL,NULL
+07/08/2023,Kansas City,Missouri,64128,Accident,Fentanyl and cocaine abuse,NULL,NULL,NULL,NULL
+07/09/2023,Kansas City,Missouri,64111,Accident,Fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+07/06/2023,Independence,Missouri,64057,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+07/11/2023,Kansas City,Missouri,64134,Accident,"Cocaine, fentanyl, and methamphetamine intoxication",NULL,NULL,NULL,"Hypertensive and atherosclerotic cardiovascular disease, obesity "
+07/14/2023,Kansas City,Missouri,64109,Accident,Fentanyl toxicity,NULL,NULL,NULL,NULL
+07/14/2023,Kansas City,Missouri,64109,Accident,Fentanyl intoxication ,NULL,NULL,NULL,NULL
+07/15/2023,Kansas City,Missouri,64130,Accident,Combined methamphetamine and fentanyl intoxication,NULL,NULL,NULL,NULL
+07/17/2023,Independence,Missouri,64055,Accident,"Fentanyl, acetylfentanyl, cocaine, and ethanol combined intoxication ",NULL,NULL,NULL,"Hypertensive cardiovascular disease, obesity "
+07/18/2023,Kansas City,Missouri,64111,Accident,Fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+07/18/2023,Kansas City,Missouri,64147,Accident,Combined toxicity of ethanol and fentanyl ,NULL,NULL,NULL,NULL
+07/20/2023,Independence,Missouri,64055,Accident,Fentanyl and acetylfentanyl intoxication ,NULL,NULL,NULL,Acute pneumonia
+07/25/2023,Kansas City,Missouri,64132,Accident,"Acute Fentanyl, Acetylfentanyl, Alprazolam, Clonazepam, and Ethanol Toxicity",NULL,NULL,NULL,NULL
+07/27/2023,Kansas City,Missouri,64127,Accident,Acute Fentanyl and Acetylfentanyl Toxicity,NULL,NULL,NULL,Asthma
+07/27/2023,Lees Summit,Missouri,64064,Accident,Acute Fentanyl and Clonazepam Toxicity,NULL,NULL,NULL,NULL
+08/01/2023,Kansas City,Missouri,64130,Accident,Fentanyl toxicity ,NULL,NULL,NULL,NULL
+08/01/2023,Blue Springs,Missouri,64015,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+08/06/2023,Kansas City,Missouri,64134,Accident,"Acetylfentanyl, fluorofentanyl, fentanyl, and methamphetamine intoxication",NULL,NULL,NULL,NULL
+08/07/2023,Kansas City,Missouri,64130,Accident,Acute Fentanyl and Ethanol Toxicity,NULL,NULL,NULL,NULL
+08/07/2023,Kansas City,Missouri,64130,Accident,Acute Fentanyl and Fluorofentanyl Toxicity,NULL,NULL,NULL,NULL
+08/07/2023,Kansas City,Missouri,64127,Accident,"Acute Fentanyl, Methamphetamine, and Ethanol Toxicity",NULL,NULL,NULL,NULL
+08/08/2023,Kansas City,Missouri,64131,Accident,Hypertensive and atherosclerotic cardiovascular disease,NULL,NULL,NULL,Fentanyl and cocaine use
+08/09/2023,Kansas City,Missouri,64129,Accident,Fentanyl and methamphetamine intoxication,NULL,NULL,NULL,NULL
+08/10/2023,Independence,Missouri,64052,Accident,"Acute Fentanyl, Acetylfentanyl, and Fluorofentanyl Toxicity",NULL,NULL,NULL,NULL
+08/12/2023,Independence,Missouri,64055,Accident,Acute Fluorofentanyl Toxicity,NULL,NULL,NULL,NULL
+08/20/2023,Kansas City,Missouri,64128,Accident,"Methamphetamine, phencyclidine, fentanyl, and acetylfentanyl intoxication",NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease
+08/20/2023,Kansas City,Missouri,64111,Accident,Alprazolam and fentanyl intoxication,NULL,NULL,NULL,Acute bronchopneumonia
+08/23/2023,Blue Springs,Missouri,64015,Accident,Fentanyl and ethanol intoxication,NULL,NULL,NULL,NULL
+08/25/2023,Kansas City,Missouri,64134,Accident,Toxic effects of fentanyl and suboxone,NULL,NULL,NULL,NULL
+08/26/2023,Independence,Missouri,64058,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+08/26/2023,Kansas City,Missouri,64146,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+08/27/2023,Lees Summit,Missouri,64063,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,Complications of cystic fibrosis
+08/28/2023,Kansas City,Missouri,64130,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+08/29/2023,Grandview,Missouri,64030,Accident,"Cocaine, fentanyl, and acetylfentanyl intoxication",NULL,NULL,NULL,"Hypertensive and atherosclerotic cardiovascular disease, chronic kidney disease, diabetes mellitus, obesity"
+08/30/2023,Kansas City,Missouri,64127,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+09/02/2023,Kansas City,Missouri,64120,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,NULL
+09/05/2023,Independence,Missouri,64058,Accident,Acute Fentanyl and Acetylfentanyl Toxicity,NULL,NULL,NULL,NULL
+09/08/2023,Kansas City,Missouri,64130,Accident,Acute fentanyl intoxication,NULL,NULL,NULL,NULL
+09/10/2023,Independence,Missouri,64054,Accident,Combined fentanyl and ethanol use ,NULL,NULL,NULL,NULL
+09/11/2023,Grandview,Missouri,64030,Accident,"Fentanyl, Tramadol, Pregabalin, and Nortriptyline Toxicity",NULL,NULL,NULL,NULL
+09/13/2023,Grain Valley,Missouri,64029,Accident,Combined ethanol and oxycodone toxicity,NULL,NULL,NULL,NULL
+09/15/2023,Independence,Missouri,64055,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,Hypertensive and atherosclerotic cardiovascular disease; diabetes mellitus
+09/16/2023,Kansas City,Missouri,64127,Accident,"Ethanol, acetyl fentanyl, and fentanyl intoxication",NULL,NULL,NULL,NULL
+09/19/2023,Kansas City,Missouri,64114,Accident,"Fentanyl, acetylfentanyl, and cocaine intoxication",NULL,NULL,NULL,NULL
+09/20/2023,Kansas City,Missouri,64128,Accident,Fentanyl intoxication,NULL,NULL,NULL,NULL
+09/20/2023,Kansas City,Missouri,64128,Accident,"Methamphetamine, fentanyl, acetyl fentanyl, and fluorofentanyl intoxication",NULL,NULL,NULL,NULL
+09/22/2023,Kansas City,Missouri,64130,Accident,Combined fentanyl and cocaine toxicity ,NULL,NULL,NULL,NULL
+09/30/2023,Independence,Missouri,64055,Accident,Acute fentanyl toxicity ,NULL,NULL,NULL,NULL
+10/03/2023,Lees Summit,Missouri,64081,Accident,Acetyl fentanyl and fentanyl intoxication,NULL,NULL,NULL,Cocaine use; atherosclerotic cardiovascular disease; morbid obesity
+10/06/2023,Kansas City,Missouri,64130,Accident,"Fentanyl, acetyl fentanyl, and cocaine intoxication",NULL,NULL,NULL,Hypertensive cardiovascular disease
+10/07/2023,Raytown,Missouri,64138,Accident,"Fentanyl, acetyl fentanyl, cocaine, and methamphetamine intoxication",NULL,NULL,NULL,Acute pneumonia
+10/04/2023,Kansas City,Missouri,64124,Accident,Complications of fentanyl and acetyl fentanyl intoxication,NULL,NULL,NULL,NULL
+10/09/2023,Kansas City,Missouri,64106,Accident,"Methamphetamine, acetyl fentanyl, and fentanyl intoxication",NULL,NULL,NULL,NULL
+10/13/2023,Kansas City,Missouri,64130,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+10/16/2023,Lees Summit,Missouri,64086,Accident,Toxic effects of methamphetamine and fentanyl,NULL,NULL,NULL,Atherosclerotic cardiovascular disease
+10/17/2023,Independence,Missouri,64050,Accident,"Acute Fentanyl, Acetyl Fentanyl, Cocaine, Alprazolam, and Mitragynine Toxicity",NULL,NULL,NULL,NULL
+10/18/2023,Kansas City,Missouri,64129,Accident,"Ethanol, acetyl fentanyl, and fentanyl intoxication",NULL,NULL,NULL,NULL
+10/18/2023,Kansas City,Missouri,64111,Accident,Combined fentanyl and methamphetamine intoxication ,NULL,NULL,NULL,NULL
+10/21/2023,Kansas City,Missouri,64133,Accident,"Methamphetamine, acetyl fentanyl, and fentanyl intoxication",NULL,NULL,NULL,NULL
+10/22/2023,Independence,Missouri,64055,Accident,Combined fentanyl and methamphetamine toxicity ,NULL,NULL,NULL,NULL
+10/21/2023,Kansas City,Missouri,64111,Accident,Fentanyl and phencyclidine intoxication,NULL,NULL,NULL,NULL
+10/22/2023,Lees Summit,Missouri,64086,Accident,Fentanyl and acetylfentanyl intoxication,NULL,NULL,NULL,NULL
+10/22/2023,Kansas City,Missouri,64123,Accident,Ethanol and fentanyl intoxication,NULL,NULL,NULL,Acute pneumonia
+10/26/2023,Independence,Missouri,64053,Accident,Acute Methamphetamine and Fentanyl Toxicity,NULL,NULL,NULL,NULL
+10/31/2023,Kansas City,Missouri,64127,Accident,"Acute Fentanyl, Fluorofentanyl, and Acetyl Fentanyl Toxicity",NULL,NULL,NULL,NULL
+10/31/2023,Independence,Missouri,64053,Accident,"Acetyl fentanyl, fentanyl, and methamphetamine intoxication",NULL,NULL,NULL,NULL
+10/30/2023,Kansas City,Missouri,64123,Accident,Complications of Fentanyl Toxicity,NULL,NULL,NULL,Hypertension
+11/02/2023,Independence,Missouri,64050,Accident,Methamphetamine and fentanyl intoxication,NULL,NULL,NULL,Morbid obesity
+11/02/2023,Lees Summit,Missouri,64082,Accident,Fentanyl intoxication ,NULL,NULL,NULL,Amphetamine use; Hypertensive and atherosclerotic cardiovascular disease
+11/05/2023,Kansas City,Missouri,64129,Accident,Fluorofentanyl and fentanyl intoxication ,NULL,NULL,NULL,NULL
+11/16/2023,Kansas City,Missouri,64129,Accident,Toxic effects of fentanyl and cocaine,NULL,NULL,NULL,NULL
+11/17/2023,Kansas City,Missouri,64105,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
+11/20/2023,Kansas City,Missouri,64110,Accident,Toxic effects of fentanyl,NULL,NULL,NULL,NULL
