@@ -1,9 +1,3 @@
-Requirements
-
-ipykernel
-jupyterlab
-matplotlib
-numpy
-pandas
-scipy
-seaborn
+version https://git-lfs.github.com/spec/v1
+oid sha256:29d3116d8d860ed5cbb8feed9b127eaf4878aed96b957470b4896a51beddff27
+size 80

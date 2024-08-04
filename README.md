@@ -1,25 +1,3 @@
-# capstone
-
-## By: Andy Asher
-
-## Virtual Environment Set-Up: Installation Instructions
-
-Before setting up the virtual environment, ensure you have Python and pip installed:
-
-Python: You can download it from python.org.
-pip: Typically installed automatically with Python. You can check by running pip --version in your terminal.
-
-## Setting Up the Virtual Environment
-Clone the Repo and Navigate to Your Project Directory in VSCode:
-
-## Create the Virtual Environment:
-
-python3 -m venv myenv
-
-## Activate the Virtual Environment:
-
-myenv\Scripts\activate
-
-## Install dependencies:
-
-pip install -r requirements.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbf71dcade5904a9d5baa442513cab864369cdd1a82d0f1d9007f4309cb35a6b
+size 613
