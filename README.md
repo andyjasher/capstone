@@ -42,4 +42,14 @@ This project puts together visualizations for each of the factors and their freq
 
 This project develops three predictive data models: linear regression, polynomial regression, MLP Neural Net.
 
+## Results
+
+All four models performed similarly in predicting the number of fatal overdoses per thousand residents of a zip code.
+At the more accurate end, each model achieved a MAPE of less than .5 or 50 percent and greater than .3 or 30
+percent. This is generally considered a reasonable forecast, and with all actual values being 81 or under (median of
+17 and mean of 22.78), small variations constitute a much larger percentage than of most typical data sets.
+In general, the neural net performed equivalently to both the linear and polynomial regression models. Upon
+repeated trialing, the NN was occasionally able to substantially out perform other models, but it was also much more
+prone to wide variation and occasionally performed substantially worse than other models.
+
 
